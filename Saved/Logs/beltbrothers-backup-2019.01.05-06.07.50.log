@@ -1,0 +1,1395 @@
+﻿Log file open, 01/05/19 00:09:26
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: beltbrothers
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.413563
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.083s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4613538
+LogInit: Engine Version: 4.21.1-4613538+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: AMD Ryzen 5 1600X Six-Core Processor           , GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): Nov 30 2018 04:13:25
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line:  -EpicPortal -epicusername=kevinsfamchili -epicuserid=6f8f76fec098401981480725ed91a318 -epiclocale=en-US
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.01.05-05.09.26:500][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.01.05-05.09.26:500][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.01.05-05.09.26:500][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Config/Windows/Engine.ini]
+[2019.01.05-05.09.26:500][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.01.05-05.09.26:500][  0]LogConfig: Setting CVar [[r.MobileHDR:0]]
+[2019.01.05-05.09.26:500][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Config/Windows/Engine.ini]
+[2019.01.05-05.09.26:500][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Config/Windows/Engine.ini]
+[2019.01.05-05.09.26:500][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.01.05-05.09.26:500][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.01.05-05.09.26:500][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.01.05-05.09.26:500][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.01.05-05.09.26:501][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.01.05-05.09.26:501][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.01.05-05.09.26:501][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.01.05-05.09.26:501][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.01.05-05.09.26:501][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.01.05-05.09.26:501][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.01.05-05.09.26:501][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.01.05-05.09.26:501][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.01.05-05.09.26:501][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.01.05-05.09.26:501][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Config/Windows/Engine.ini]
+[2019.01.05-05.09.26:501][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.01.05-05.09.26:501][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.01.05-05.09.26:501][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.01.05-05.09.26:501][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.01.05-05.09.26:501][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.01.05-05.09.26:501][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.01.05-05.09.26:501][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.01.05-05.09.26:501][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.01.05-05.09.26:501][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.01.05-05.09.26:501][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.01.05-05.09.26:501][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.01.05-05.09.26:501][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.01.05-05.09.26:501][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.01.05-05.09.26:501][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.01.05-05.09.26:501][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Config/Windows/Engine.ini]
+[2019.01.05-05.09.26:501][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Config/Windows/Engine.ini]
+[2019.01.05-05.09.26:503][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Config/Windows/Scalability.ini]
+[2019.01.05-05.09.26:503][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.01.05-05.09.26:503][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.01.05-05.09.26:503][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Config/Windows/Scalability.ini]
+[2019.01.05-05.09.26:503][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.01.05-05.09.26:503][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Config/Windows/Scalability.ini]
+[2019.01.05-05.09.26:503][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.01.05-05.09.26:503][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.01.05-05.09.26:503][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.01.05-05.09.26:503][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.01.05-05.09.26:503][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.01.05-05.09.26:503][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.01.05-05.09.26:503][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.01.05-05.09.26:503][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.01.05-05.09.26:503][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.01.05-05.09.26:503][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.01.05-05.09.26:503][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.01.05-05.09.26:503][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.01.05-05.09.26:503][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.01.05-05.09.26:503][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.01.05-05.09.26:503][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.01.05-05.09.26:503][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.01.05-05.09.26:503][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.01.05-05.09.26:503][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.01.05-05.09.26:503][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Config/Windows/Scalability.ini]
+[2019.01.05-05.09.26:503][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.01.05-05.09.26:503][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.01.05-05.09.26:503][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.01.05-05.09.26:503][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.01.05-05.09.26:503][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.01.05-05.09.26:503][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.01.05-05.09.26:503][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.01.05-05.09.26:503][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.01.05-05.09.26:503][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.01.05-05.09.26:503][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.01.05-05.09.26:503][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.01.05-05.09.26:503][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.01.05-05.09.26:503][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.01.05-05.09.26:503][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.01.05-05.09.26:503][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.01.05-05.09.26:503][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.01.05-05.09.26:503][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.01.05-05.09.26:503][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.01.05-05.09.26:503][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.01.05-05.09.26:503][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.01.05-05.09.26:503][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.01.05-05.09.26:503][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.01.05-05.09.26:503][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.01.05-05.09.26:503][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.01.05-05.09.26:503][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.01.05-05.09.26:503][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.01.05-05.09.26:503][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.01.05-05.09.26:503][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.01.05-05.09.26:503][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.01.05-05.09.26:503][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.01.05-05.09.26:504][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Config/Windows/Scalability.ini]
+[2019.01.05-05.09.26:504][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.01.05-05.09.26:504][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.01.05-05.09.26:504][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.01.05-05.09.26:504][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.01.05-05.09.26:504][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.01.05-05.09.26:504][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.01.05-05.09.26:504][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.01.05-05.09.26:504][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.01.05-05.09.26:504][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Config/Windows/Scalability.ini]
+[2019.01.05-05.09.26:504][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.01.05-05.09.26:504][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.01.05-05.09.26:504][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.01.05-05.09.26:504][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.01.05-05.09.26:504][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.01.05-05.09.26:504][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.01.05-05.09.26:504][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.01.05-05.09.26:504][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.01.05-05.09.26:504][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.01.05-05.09.26:504][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.01.05-05.09.26:504][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.01.05-05.09.26:504][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.01.05-05.09.26:504][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.01.05-05.09.26:504][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Config/Windows/Scalability.ini]
+[2019.01.05-05.09.26:504][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.01.05-05.09.26:504][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.01.05-05.09.26:504][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.05-05.09.26:504][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.01.05-05.09.26:516][  0]LogHAL: Display: Platform has ~ 16 GB [17129910272 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.01.05-05.09.26:516][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.01.05-05.09.26:516][  0]LogInit: Going up to parent DeviceProfile []
+[2019.01.05-05.09.26:516][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Config/Windows/Scalability.ini]
+[2019.01.05-05.09.26:516][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.01.05-05.09.26:516][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.01.05-05.09.26:516][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Config/Windows/Scalability.ini]
+[2019.01.05-05.09.26:516][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.01.05-05.09.26:516][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Config/Windows/Scalability.ini]
+[2019.01.05-05.09.26:516][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.01.05-05.09.26:516][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.01.05-05.09.26:516][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.01.05-05.09.26:516][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.01.05-05.09.26:516][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.01.05-05.09.26:516][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.01.05-05.09.26:516][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.01.05-05.09.26:516][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.01.05-05.09.26:516][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.01.05-05.09.26:516][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.01.05-05.09.26:516][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.01.05-05.09.26:516][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.01.05-05.09.26:516][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.01.05-05.09.26:516][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.01.05-05.09.26:516][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.01.05-05.09.26:516][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.01.05-05.09.26:516][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.01.05-05.09.26:516][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.01.05-05.09.26:516][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Config/Windows/Scalability.ini]
+[2019.01.05-05.09.26:516][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.01.05-05.09.26:516][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.01.05-05.09.26:516][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.01.05-05.09.26:516][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.01.05-05.09.26:516][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.01.05-05.09.26:516][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.01.05-05.09.26:516][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.01.05-05.09.26:516][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.01.05-05.09.26:516][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.01.05-05.09.26:516][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.01.05-05.09.26:516][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.01.05-05.09.26:516][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.01.05-05.09.26:516][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.01.05-05.09.26:516][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.01.05-05.09.26:516][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.01.05-05.09.26:516][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.01.05-05.09.26:516][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.01.05-05.09.26:516][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.01.05-05.09.26:516][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.01.05-05.09.26:516][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.01.05-05.09.26:516][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.01.05-05.09.26:517][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.01.05-05.09.26:517][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.01.05-05.09.26:517][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.01.05-05.09.26:517][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.01.05-05.09.26:517][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.01.05-05.09.26:517][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.01.05-05.09.26:517][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.01.05-05.09.26:517][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.01.05-05.09.26:517][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.01.05-05.09.26:517][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Config/Windows/Scalability.ini]
+[2019.01.05-05.09.26:517][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.01.05-05.09.26:517][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.01.05-05.09.26:517][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.01.05-05.09.26:517][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.01.05-05.09.26:517][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.01.05-05.09.26:517][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.01.05-05.09.26:517][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.01.05-05.09.26:517][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.01.05-05.09.26:517][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Config/Windows/Scalability.ini]
+[2019.01.05-05.09.26:517][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.01.05-05.09.26:517][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.01.05-05.09.26:517][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.01.05-05.09.26:517][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.01.05-05.09.26:517][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.01.05-05.09.26:517][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.01.05-05.09.26:517][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.01.05-05.09.26:517][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.01.05-05.09.26:517][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.01.05-05.09.26:517][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.01.05-05.09.26:517][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.01.05-05.09.26:517][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.01.05-05.09.26:517][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.01.05-05.09.26:517][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Config/Windows/Scalability.ini]
+[2019.01.05-05.09.26:517][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.01.05-05.09.26:517][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.01.05-05.09.26:517][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.01.05-05.09.26:517][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.01.05-05.09.26:517][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Config/Windows/Engine.ini]
+[2019.01.05-05.09.26:517][  0]LogInit: Computer: DESKTOP-8LLUI4T
+[2019.01.05-05.09.26:517][  0]LogInit: User: ChrisYarbrough
+[2019.01.05-05.09.26:517][  0]LogInit: CPU Page size=4096, Cores=6
+[2019.01.05-05.09.26:517][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.01.05-05.09.26:518][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2019.01.05-05.09.26:518][  0]LogMemory: Platform Memory Stats for Windows
+[2019.01.05-05.09.26:518][  0]LogMemory: Process Physical Memory: 103.98 MB used, 103.98 MB peak
+[2019.01.05-05.09.26:518][  0]LogMemory: Process Virtual Memory: 94.31 MB used, 94.31 MB peak
+[2019.01.05-05.09.26:518][  0]LogMemory: Physical Memory: 7530.37 MB used,  8805.99 MB free, 16336.36 MB total
+[2019.01.05-05.09.26:518][  0]LogMemory: Virtual Memory: 4670.24 MB used,  134213056.00 MB free, 134217728.00 MB total
+[2019.01.05-05.09.26:537][  0]LogInit: Using OS detected language (en-US).
+[2019.01.05-05.09.26:538][  0]LogInit: Using OS detected locale (en-US).
+[2019.01.05-05.09.26:538][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.01.05-05.09.26:988][  0]LogStreaming: Display: Took  0.450s to InitEngineTextLocalization.
+[2019.01.05-05.09.26:988][  0]LogInit: Setting process to per monitor DPI aware
+[2019.01.05-05.09.27:025][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.01.05-05.09.27:025][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.01.05-05.09.27:231][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.01.05-05.09.27:231][  0]LogD3D11RHI: D3D11 adapters:
+[2019.01.05-05.09.27:326][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2019.01.05-05.09.27:326][  0]LogD3D11RHI:       8088/0/8168 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.01.05-05.09.27:328][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.01.05-05.09.27:328][  0]LogD3D11RHI:       0/0/8168 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.01.05-05.09.27:328][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.01.05-05.09.27:338][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.01.05-05.09.27:338][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2019.01.05-05.09.27:338][  0]LogWindows: EnumDisplayDevices:
+[2019.01.05-05.09.27:338][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2019.01.05-05.09.27:338][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.01.05-05.09.27:339][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.01.05-05.09.27:339][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.01.05-05.09.27:339][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.01.05-05.09.27:339][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2019.01.05-05.09.27:339][  0]LogD3D11RHI:   Driver Version: 417.35 (internal:25.21.14.1735, unified:417.35)
+[2019.01.05-05.09.27:339][  0]LogD3D11RHI:      Driver Date: 12-11-2018
+[2019.01.05-05.09.27:339][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2019.01.05-05.09.27:394][  0]LogD3D11RHI: Async texture creation enabled
+[2019.01.05-05.09.27:413][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.01.05-05.09.27:747][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.01.05-05.09.27:764][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.01.05-05.09.27:782][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.01.05-05.09.27:796][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.01.05-05.09.27:813][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.01.05-05.09.27:833][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.01.05-05.09.27:848][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.01.05-05.09.27:863][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.01.05-05.09.27:870][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.01.05-05.09.27:961][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.05-05.09.27:961][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.05-05.09.27:961][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.05-05.09.27:961][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.05-05.09.27:961][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.05-05.09.27:961][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.05-05.09.27:961][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.05-05.09.27:961][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.05-05.09.27:961][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.05-05.09.27:961][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.05-05.09.27:961][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.05-05.09.27:961][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.05-05.09.27:961][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.05-05.09.27:961][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.05-05.09.27:961][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.05-05.09.27:961][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.05-05.09.27:961][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.05-05.09.27:961][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.05-05.09.27:963][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.01.05-05.09.28:030][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.01.05-05.09.28:030][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.01.05-05.09.28:059][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.01.05-05.09.28:059][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.01.05-05.09.28:072][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.01.05-05.09.28:088][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.01.05-05.09.28:102][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.01.05-05.09.28:115][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.01.05-05.09.28:172][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.01.05-05.09.28:172][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.01.05-05.09.28:172][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.01.05-05.09.28:233][  0]LogShaderCompilers: Guid format shader working directory is -23 characters bigger than the processId version (../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Intermediate/Shaders/WorkingDirectory/12216/).
+[2019.01.05-05.09.28:234][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Chris Yarbrough/AppData/Local/Temp/UnrealShaderWorkingDir/251D80A9488F2DC0CA0C2E9DCA02E196/'.
+[2019.01.05-05.09.28:237][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.01.05-05.09.28:237][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.01.05-05.09.28:237][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.01.05-05.09.28:766][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.01.05-05.09.28:829][  0]LogDerivedDataCache: Loaded boot cache 0.06s 86MB C:/Users/Chris Yarbrough/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.01.05-05.09.28:829][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Chris Yarbrough/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.01.05-05.09.28:830][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.01.05-05.09.28:830][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.01.05-05.09.28:830][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.01.05-05.09.28:830][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.01.05-05.09.28:843][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.01.05-05.09.28:843][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.01.05-05.09.28:843][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.01.05-05.09.28:855][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Chris Yarbrough/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.01.05-05.09.28:855][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.01.05-05.09.28:855][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.01.05-05.09.28:879][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.01.05-05.09.28:880][  0]LogSlate: Using FreeType 2.6.0
+[2019.01.05-05.09.28:881][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.01.05-05.09.28:975][  0]LogAssetRegistry: FAssetRegistry took 0.0353 seconds to start up
+[2019.01.05-05.09.29:358][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.05-05.09.29:510][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.01.05-05.09.29:514][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.01.05-05.09.29:514][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.01.05-05.09.29:514][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.01.05-05.09.29:514][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.01.05-05.09.29:528][  0]LogNetVersion: beltbrothers 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 340660797)
+[2019.01.05-05.09.30:100][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.097641 seconds
+[2019.01.05-05.09.30:110][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.01.05-05.09.30:110][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2019.01.05-05.09.30:110][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.01.05-05.09.30:971][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.01.05-05.09.30:996][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.01.05-05.09.31:643][  0]SourceControl: Source control is disabled
+[2019.01.05-05.09.31:643][  0]SourceControl: Source control is disabled
+[2019.01.05-05.09.31:644][  0]SourceControl: Source control is disabled
+[2019.01.05-05.09.31:645][  0]SourceControl: Source control is disabled
+[2019.01.05-05.09.31:808][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.01.05-05.09.31:910][  0]LogOcInput: OculusInput pre-init called
+[2019.01.05-05.09.32:042][  0]LogEngine: Initializing Engine...
+[2019.01.05-05.09.32:043][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.01.05-05.09.32:044][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.01.05-05.09.32:044][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.05-05.09.32:044][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.01.05-05.09.32:044][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.05-05.09.32:268][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.01.05-05.09.32:283][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.01.05-05.09.32:375][  0]LogInit: XAudio2 using 'Headphones (SteelSeries Arctis 7 Game)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.05-05.09.32:394][  0]LogInit: FAudioDevice initialized.
+[2019.01.05-05.09.32:394][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.01.05-05.09.32:493][  0]LogDerivedDataCache: Saved boot cache 0.10s 86MB C:/Users/Chris Yarbrough/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.01.05-05.09.32:503][  0]LogInit: Texture streaming: Enabled
+[2019.01.05-05.09.32:521][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.01.05-05.09.32:538][  0]LogInit: Transaction tracking system initialized
+[2019.01.05-05.09.32:560][  0]BlueprintLog: New page: Editor Load
+[2019.01.05-05.09.32:623][  0]LogInit: Warning: CVar named 'r.MobileHDR' marked up in RendererSettings was not found or is set to read-only
+[2019.01.05-05.09.32:735][  0]LocalizationService: Localization service is disabled
+[2019.01.05-05.09.33:223][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/' took 0.01s
+[2019.01.05-05.09.33:223][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.01.05-05.09.33:223][  0]LogCook: Display: Mobile HDR setting 1
+[2019.01.05-05.09.33:223][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.01.05-05.09.33:223][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.01.05-05.09.33:223][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.05-05.09.33:223][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.01.05-05.09.33:223][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.05-05.09.33:345][  0]SourceControl: Source control is disabled
+[2019.01.05-05.09.33:346][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.05-05.09.33:346][  0]LightingResults: New page: Lighting Build
+[2019.01.05-05.09.33:348][  0]MapCheck: New page: Map Check
+[2019.01.05-05.09.33:348][  0]LightingResults: New page: Lighting Build
+[2019.01.05-05.09.33:558][  0]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2019.01.05-05.09.33:566][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.05-05.09.33:596][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.05-05.09.33:596][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.169ms to complete.
+[2019.01.05-05.09.33:596][  0]LogFileHelpers: Loading map '2DSideScrollerExampleMap' took 0.251
+[2019.01.05-05.09.33:754][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.05-05.09.33:763][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.05-05.09.33:772][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.05-05.09.33:779][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.05-05.09.33:793][  0]LogCollectionManager: Loaded 0 collections in 0.001318 seconds
+[2019.01.05-05.09.33:845][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Collections/' took 0.01s
+[2019.01.05-05.09.33:845][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Developers/ChrisYarbrough/Collections/' took 0.01s
+[2019.01.05-05.09.33:845][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Collections/' took 0.01s
+[2019.01.05-05.09.33:845][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.01.05-05.09.33:856][  0]LogContentBrowser: Native class hierarchy populated in 0.0100 seconds. Added 2651 classes and 620 folders.
+[2019.01.05-05.09.33:866][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.01.05-05.09.33:867][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.05-05.09.33:868][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.05-05.09.33:868][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.05-05.09.33:869][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.05-05.09.33:869][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.05-05.09.33:869][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.05-05.09.33:870][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.05-05.09.33:870][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.05-05.09.33:871][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.05-05.09.33:871][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.05-05.09.33:871][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.05-05.09.33:872][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.05-05.09.33:872][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.05-05.09.33:872][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.05-05.09.33:873][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.05-05.09.33:873][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.05-05.09.33:874][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.05-05.09.33:874][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.05-05.09.33:874][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.05-05.09.33:875][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.05-05.09.33:875][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.05-05.09.33:876][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.05-05.09.33:876][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.05-05.09.33:877][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.05-05.09.33:877][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.05-05.09.33:877][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.05-05.09.33:901][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.01.05-05.09.33:911][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.01.05-05.09.33:959][  0]LogSlate: Took 0.000238 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.01.05-05.09.33:961][  0]LogSlate: Took 0.000213 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.01.05-05.09.33:976][  0]LogSlate: Took 0.006258 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.01.05-05.09.34:094][  0]LogRenderer: Reallocating scene render targets to support 1288x624 Format 10 NumSamples 1 (Frame:1).
+[2019.01.05-05.09.34:235][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.05-05.09.34:251][  0]LogSlate: Window 'Tutorials' being destroyed
+[2019.01.05-05.09.34:282][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.01.05-05.09.34:282][  0]LogLoad: (Engine Initialization) Total time: 9.73 seconds
+[2019.01.05-05.09.34:282][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.01.05-05.09.34:347][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.01.05-05.09.34:386][  1]LogAssetRegistry: Asset discovery search completed in 5.4338 seconds
+[2019.01.05-05.09.34:387][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.01.05-05.09.34:387][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000038 seconds (updated 0 objects)
+[2019.01.05-05.09.38:410][478]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.05-05.09.38:485][487]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.05-05.09.38:491][487]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.01.05-05.09.38:492][487]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.05-05.09.38:495][487]PIE: New page: PIE session: 2DSideScrollerExampleMap (Jan 4, 2019, 7:09:38 PM)
+[2019.01.05-05.09.38:509][487]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2019.01.05-05.09.38:513][487]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003870s)
+[2019.01.05-05.09.38:513][487]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2019.01.05-05.09.38:514][487]LogPlayLevel: PIE: World Init took: (0.000512s)
+[2019.01.05-05.09.38:514][487]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.004662s)
+[2019.01.05-05.09.38:583][487]LogInit: XAudio2 using 'Headphones (SteelSeries Arctis 7 Game)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.05-05.09.38:592][487]LogInit: FAudioDevice initialized.
+[2019.01.05-05.09.38:635][487]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.01.05-05.09.38:640][487]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2019.01.05-00.09.38
+[2019.01.05-05.09.38:643][487]LogWorld: Bringing up level for play took: 0.004156
+[2019.01.05-05.09.38:669][487]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.01.05-05.09.38:671][487]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap 0.021
+[2019.01.05-05.09.38:671][487]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.01.05-05.09.43:937][117]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.01.05-05.09.43:939][117]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.05-05.09.43:973][117]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.05-05.09.43:973][117]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.01.05-05.09.44:002][117]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.05-05.09.44:040][121]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2019.01.05-05.19.31:011][388]LogSlate: Took 0.000213 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.01.05-05.23.35:783][ 52]LogMetaData: Removing '/Game/Character/2DSideScrollerCharacter.2DSideScrollerCharacter_C' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.PackageMetaData'
+[2019.01.05-05.23.35:784][ 52]LogMetaData: Removing '/Game/Character/2DSideScrollerCharacter.SKEL_2DSideScrollerCharacter_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_5' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.PackageMetaData'
+[2019.01.05-05.23.35:784][ 52]LogMetaData: Removing '/Game/Character/2DSideScrollerCharacter.SKEL_2DSideScrollerCharacter_C:ReceiveBeginPlay' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.PackageMetaData'
+[2019.01.05-05.23.35:784][ 52]LogMetaData: Removing '/Game/Character/2DSideScrollerCharacter.SKEL_2DSideScrollerCharacter_C:ReceiveTick' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.PackageMetaData'
+[2019.01.05-05.23.35:784][ 52]LogMetaData: Removing '/Game/Character/2DSideScrollerCharacter.SKEL_2DSideScrollerCharacter_C:bisMovingRight' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.PackageMetaData'
+[2019.01.05-05.23.35:784][ 52]LogMetaData: Removing '/Game/Character/2DSideScrollerCharacter.SKEL_2DSideScrollerCharacter_C:CameraBoom' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.PackageMetaData'
+[2019.01.05-05.23.35:784][ 52]LogMetaData: Removing '/Game/Character/2DSideScrollerCharacter.SKEL_2DSideScrollerCharacter_C:SideViewCameraComponent' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.PackageMetaData'
+[2019.01.05-05.23.35:784][ 52]LogMetaData: Removing '/Game/Character/2DSideScrollerCharacter.SKEL_2DSideScrollerCharacter_C:UserConstructionScript' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.PackageMetaData'
+[2019.01.05-05.23.35:784][ 52]LogMetaData: Removing '/Game/Character/2DSideScrollerCharacter.SKEL_2DSideScrollerCharacter_C' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.PackageMetaData'
+[2019.01.05-05.23.35:784][ 52]LogMetaData: Removing '/Game/Character/2DSideScrollerCharacter.2DSideScrollerCharacter_C:bisMovingRight' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.PackageMetaData'
+[2019.01.05-05.23.35:784][ 52]LogMetaData: Removing '/Game/Character/2DSideScrollerCharacter.2DSideScrollerCharacter_C:CameraBoom' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.PackageMetaData'
+[2019.01.05-05.23.35:784][ 52]LogMetaData: Removing '/Game/Character/2DSideScrollerCharacter.2DSideScrollerCharacter_C:SideViewCameraComponent' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.PackageMetaData'
+[2019.01.05-05.23.35:784][ 52]LogMetaData: Removing '/Game/Character/2DSideScrollerCharacter.2DSideScrollerCharacter_C:ReceiveTick' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.PackageMetaData'
+[2019.01.05-05.23.35:784][ 52]LogMetaData: Removing '/Game/Character/2DSideScrollerCharacter.2DSideScrollerCharacter_C:ReceiveBeginPlay' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.PackageMetaData'
+[2019.01.05-05.23.35:784][ 52]LogMetaData: Removing '/Game/Character/2DSideScrollerCharacter.2DSideScrollerCharacter_C:UserConstructionScript' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.PackageMetaData'
+[2019.01.05-05.23.35:848][ 52]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/2DSideScrollerCharacter426F2141449FA38FB75E32B5A8FABE49.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/2DSideScrollerCharacter.uasset'
+[2019.01.05-05.23.35:871][ 52]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/2DSideScrollerCharacterB77E62FE4D0CBE420B0713A9EEB240C4.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset'
+[2019.01.05-05.23.52:954][510]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/2DSideScrollerExampleMap645644EF4916D2A620859082BB71DDF4.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2019.01.05-05.23.52:981][510]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/2DSideScrollerExampleMap_BuiltDa2573FFFB4538B49EA24F1986A7B4A391.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset'
+[2019.01.05-05.23.54:389][660]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/2DSideScrollerExampleMap570866EC413518B6B62A2BB2335E215F.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2019.01.05-05.23.54:408][660]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/2DSideScrollerExampleMap_BuiltDa4844CE114224F4F075EC2D894C323128.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset'
+[2019.01.05-05.25.28:502][517]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Chris Yarbrough\Documents\Unreal Projects\beltbrothers\source\character\templerun\Idle__008.png)
+[2019.01.05-05.25.28:508][517]LogTexture: Display: Building textures: Idle__008 (BGRA8, 319X486)
+[2019.01.05-05.25.28:519][517]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Chris Yarbrough\Documents\Unreal Projects\beltbrothers\source\character\templerun\Idle__009.png)
+[2019.01.05-05.25.28:523][517]LogTexture: Display: Building textures: Idle__009 (BGRA8, 319X486)
+[2019.01.05-05.25.28:531][517]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Chris Yarbrough\Documents\Unreal Projects\beltbrothers\source\character\templerun\Idle__000.png)
+[2019.01.05-05.25.28:536][517]LogTexture: Display: Building textures: Idle__000 (BGRA8, 319X486)
+[2019.01.05-05.25.28:544][517]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Chris Yarbrough\Documents\Unreal Projects\beltbrothers\source\character\templerun\Idle__001.png)
+[2019.01.05-05.25.28:548][517]LogTexture: Display: Building textures: Idle__001 (BGRA8, 319X486)
+[2019.01.05-05.25.28:557][517]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Chris Yarbrough\Documents\Unreal Projects\beltbrothers\source\character\templerun\Idle__002.png)
+[2019.01.05-05.25.28:561][517]LogTexture: Display: Building textures: Idle__002 (BGRA8, 319X486)
+[2019.01.05-05.25.28:569][517]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Chris Yarbrough\Documents\Unreal Projects\beltbrothers\source\character\templerun\Idle__003.png)
+[2019.01.05-05.25.28:573][517]LogTexture: Display: Building textures: Idle__003 (BGRA8, 319X486)
+[2019.01.05-05.25.28:581][517]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Chris Yarbrough\Documents\Unreal Projects\beltbrothers\source\character\templerun\Idle__004.png)
+[2019.01.05-05.25.28:585][517]LogTexture: Display: Building textures: Idle__004 (BGRA8, 319X486)
+[2019.01.05-05.25.28:593][517]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Chris Yarbrough\Documents\Unreal Projects\beltbrothers\source\character\templerun\Idle__005.png)
+[2019.01.05-05.25.28:597][517]LogTexture: Display: Building textures: Idle__005 (BGRA8, 319X486)
+[2019.01.05-05.25.28:605][517]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Chris Yarbrough\Documents\Unreal Projects\beltbrothers\source\character\templerun\Idle__006.png)
+[2019.01.05-05.25.28:609][517]LogTexture: Display: Building textures: Idle__006 (BGRA8, 319X486)
+[2019.01.05-05.25.28:617][517]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Chris Yarbrough\Documents\Unreal Projects\beltbrothers\source\character\templerun\Idle__007.png)
+[2019.01.05-05.25.28:621][517]LogTexture: Display: Building textures: Idle__007 (BGRA8, 319X486)
+[2019.01.05-05.25.38:912][805]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/2DSideScrollerExampleMap78862B7E489BBB300531C8AE04670721.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2019.01.05-05.25.38:930][805]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/2DSideScrollerExampleMap_BuiltDa33393CAB418C80831D8824A1EE6F31C4.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset'
+[2019.01.05-05.25.45:034][529]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Idle__007E0A390704C058968218639BA476B21F5.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/idle/Idle__007.uasset'
+[2019.01.05-05.25.45:060][529]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Idle__006E7C5CEDD4268EF38CB6F3F986A53BF91.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/idle/Idle__006.uasset'
+[2019.01.05-05.25.45:087][529]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Idle__0058296F1934EF9B59A050334AEEF931CFC.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/idle/Idle__005.uasset'
+[2019.01.05-05.25.45:112][529]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Idle__0046741D67C4E4CE7FD8416A1A3BB50D7B8.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/idle/Idle__004.uasset'
+[2019.01.05-05.25.45:139][529]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Idle__003A70139684051B381188F2B8A9CD0A9C5.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/idle/Idle__003.uasset'
+[2019.01.05-05.25.45:163][529]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Idle__00206E5C8D8402235C0D5E560A5E3C0FBA5.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/idle/Idle__002.uasset'
+[2019.01.05-05.25.45:189][529]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Idle__0017DA2859549F4E2364E4B388D5CEE1190.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/idle/Idle__001.uasset'
+[2019.01.05-05.25.45:216][529]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Idle__00079141B214DC0AC21838615A2B058D90B.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/idle/Idle__000.uasset'
+[2019.01.05-05.25.45:241][529]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Idle__009F22E1FD4404B03898F72AFAE7D85F8C8.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/idle/Idle__009.uasset'
+[2019.01.05-05.25.45:266][529]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Idle__008F7393931498B5207E13D5698A14F0467.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/idle/Idle__008.uasset'
+[2019.01.05-05.26.05:025][786]LogSlate: Took 0.004638 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.01.05-05.26.08:060][929]LogSlate: Window 'Extract sprites' being destroyed
+[2019.01.05-05.26.08:685][975]LogSlate: Window 'Extract sprites' being destroyed
+[2019.01.05-05.26.09:166][ 10]LogSlate: Window 'Extract sprites' being destroyed
+[2019.01.05-05.26.09:605][ 44]LogSlate: Window 'Extract sprites' being destroyed
+[2019.01.05-05.26.09:835][ 58]LogSlate: Window 'Extract sprites' being destroyed
+[2019.01.05-05.26.10:029][ 68]LogSlate: Window 'Extract sprites' being destroyed
+[2019.01.05-05.26.10:185][ 77]LogSlate: Window 'Extract sprites' being destroyed
+[2019.01.05-05.26.10:334][ 85]LogSlate: Window 'Extract sprites' being destroyed
+[2019.01.05-05.26.10:495][ 96]LogSlate: Window 'Extract sprites' being destroyed
+[2019.01.05-05.26.10:684][109]LogSlate: Window 'Extract sprites' being destroyed
+[2019.01.05-05.26.13:128][388]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Idle__000_Sprite_07D4F46734C83BC1E55C17DAFE9153576.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/idle/Idle__000_Sprite_0.uasset'
+[2019.01.05-05.26.13:151][388]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Idle__001_Sprite_02806976B4F8C2467FC0B0D98D694ABB7.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/idle/Idle__001_Sprite_0.uasset'
+[2019.01.05-05.26.13:173][388]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Idle__002_Sprite_09CF122F04522EAAA28D3CAB35650CAC3.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/idle/Idle__002_Sprite_0.uasset'
+[2019.01.05-05.26.13:194][388]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Idle__003_Sprite_0A5D5B544498122F54DBEED993A63D334.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/idle/Idle__003_Sprite_0.uasset'
+[2019.01.05-05.26.13:217][388]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Idle__004_Sprite_0F12603F247384BD59A21019F0C764AAC.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/idle/Idle__004_Sprite_0.uasset'
+[2019.01.05-05.26.13:239][388]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Idle__005_Sprite_0CEA85BBB4B6638649376179E4946002F.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/idle/Idle__005_Sprite_0.uasset'
+[2019.01.05-05.26.13:260][388]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Idle__006_Sprite_02FC919CD47D837DEE8C9FFAA936ADF7E.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/idle/Idle__006_Sprite_0.uasset'
+[2019.01.05-05.26.13:283][388]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Idle__007_Sprite_0A0050F1F47D15431C683B593FAC04763.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/idle/Idle__007_Sprite_0.uasset'
+[2019.01.05-05.26.13:305][388]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Idle__008_Sprite_0E0E10FAC412D5501535B02A1C9B30F21.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/idle/Idle__008_Sprite_0.uasset'
+[2019.01.05-05.26.13:327][388]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Idle__009_Sprite_09F8E2074404348E16628AC926BCECCD7.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/idle/Idle__009_Sprite_0.uasset'
+[2019.01.05-05.26.31:708][544]LogAssetEditorManager: Opening Asset editor for PaperFlipbook /Game/Character/animations/sprites/idle/IDLE.IDLE
+[2019.01.05-05.26.36:364][ 54]LogRenderer: Reallocating scene render targets to support 1528x804 Format 10 NumSamples 1 (Frame:512).
+[2019.01.05-05.27.45:740][999]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/Character/animations/sprites/idle/Idle__005_Sprite_0.Idle__005_Sprite_0
+[2019.01.05-05.27.45:890][999]LogSlate: Took 0.000200 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.01.05-05.27.47:706][184]LogSlate: Window 'Idle__005_Sprite_0' being destroyed
+[2019.01.05-05.27.47:709][184]LogSlate: Window 'Idle__005_Sprite_0' being destroyed
+[2019.01.05-05.27.53:738][891]LogAssetEditorManager: Opening Asset editor for PaperFlipbook /Game/Character/animations/sprites/idle/IDLE.IDLE
+[2019.01.05-05.28.36:974][970]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/IDLE8D783C624EE39C95891BCCAB5C7D1BF2.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/idle/IDLE.uasset'
+[2019.01.05-05.28.39:838][250]LogSlate: Window 'IDLE' being destroyed
+[2019.01.05-05.28.39:841][250]LogSlate: Window 'IDLE' being destroyed
+[2019.01.05-05.29.30:737][764]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/IDLE36A5B2D942501885C7E253A1FC0E5205.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/flipbooks/IDLE.uasset'
+[2019.01.05-05.30.01:148][464]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Chris Yarbrough\Documents\Unreal Projects\beltbrothers\source\character\templerun\Run__008.png)
+[2019.01.05-05.30.01:153][464]LogTexture: Display: Building textures: Run__008 (BGRA8, 415X507)
+[2019.01.05-05.30.01:164][464]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Chris Yarbrough\Documents\Unreal Projects\beltbrothers\source\character\templerun\Run__009.png)
+[2019.01.05-05.30.01:169][464]LogTexture: Display: Building textures: Run__009 (BGRA8, 415X507)
+[2019.01.05-05.30.01:179][464]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Chris Yarbrough\Documents\Unreal Projects\beltbrothers\source\character\templerun\Run__000.png)
+[2019.01.05-05.30.01:184][464]LogTexture: Display: Building textures: Run__000 (BGRA8, 415X507)
+[2019.01.05-05.30.01:193][464]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Chris Yarbrough\Documents\Unreal Projects\beltbrothers\source\character\templerun\Run__001.png)
+[2019.01.05-05.30.01:198][464]LogTexture: Display: Building textures: Run__001 (BGRA8, 415X507)
+[2019.01.05-05.30.01:206][464]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Chris Yarbrough\Documents\Unreal Projects\beltbrothers\source\character\templerun\Run__002.png)
+[2019.01.05-05.30.01:211][464]LogTexture: Display: Building textures: Run__002 (BGRA8, 415X507)
+[2019.01.05-05.30.01:220][464]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Chris Yarbrough\Documents\Unreal Projects\beltbrothers\source\character\templerun\Run__003.png)
+[2019.01.05-05.30.01:225][464]LogTexture: Display: Building textures: Run__003 (BGRA8, 415X507)
+[2019.01.05-05.30.01:233][464]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Chris Yarbrough\Documents\Unreal Projects\beltbrothers\source\character\templerun\Run__004.png)
+[2019.01.05-05.30.01:239][464]LogTexture: Display: Building textures: Run__004 (BGRA8, 415X507)
+[2019.01.05-05.30.01:247][464]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Chris Yarbrough\Documents\Unreal Projects\beltbrothers\source\character\templerun\Run__005.png)
+[2019.01.05-05.30.01:252][464]LogTexture: Display: Building textures: Run__005 (BGRA8, 415X507)
+[2019.01.05-05.30.01:262][464]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Chris Yarbrough\Documents\Unreal Projects\beltbrothers\source\character\templerun\Run__006.png)
+[2019.01.05-05.30.01:267][464]LogTexture: Display: Building textures: Run__006 (BGRA8, 415X507)
+[2019.01.05-05.30.01:276][464]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Chris Yarbrough\Documents\Unreal Projects\beltbrothers\source\character\templerun\Run__007.png)
+[2019.01.05-05.30.01:281][464]LogTexture: Display: Building textures: Run__007 (BGRA8, 415X507)
+[2019.01.05-05.30.04:010][568]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Run__007291357024CD63AA453B1DB9B5A99AF59.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/run/Run__007.uasset'
+[2019.01.05-05.30.04:037][568]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Run__006DEE5164D477CF4CFFDCA42859458074F.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/run/Run__006.uasset'
+[2019.01.05-05.30.04:065][568]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Run__0055F1492864C8BEE1FF93F4F9597999942.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/run/Run__005.uasset'
+[2019.01.05-05.30.04:096][568]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Run__004CA33A1E749E897D6212BBA980D7C7A63.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/run/Run__004.uasset'
+[2019.01.05-05.30.04:124][568]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Run__00302DDCD204201D363D3BE649708FB9E84.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/run/Run__003.uasset'
+[2019.01.05-05.30.04:153][568]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Run__002B28AB29745BE6D8FD5339EA8284270C0.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/run/Run__002.uasset'
+[2019.01.05-05.30.04:180][568]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Run__0014F919BCA4858EEA01B5022B16D278617.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/run/Run__001.uasset'
+[2019.01.05-05.30.04:208][568]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Run__00066C418B44BFFBA0DB783249D481F5C99.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/run/Run__000.uasset'
+[2019.01.05-05.30.04:235][568]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Run__0099A58F5264B71F8B9CFC447929B948794.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/run/Run__009.uasset'
+[2019.01.05-05.30.04:264][568]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Run__008E751613E4A959FB0E874F1B21BA53853.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/run/Run__008.uasset'
+[2019.01.05-05.30.11:799][244]LogSlate: Window 'Extract sprites' being destroyed
+[2019.01.05-05.30.12:344][281]LogSlate: Window 'Extract sprites' being destroyed
+[2019.01.05-05.30.12:877][320]LogSlate: Window 'Extract sprites' being destroyed
+[2019.01.05-05.30.13:324][354]LogSlate: Window 'Extract sprites' being destroyed
+[2019.01.05-05.30.13:843][397]LogSlate: Window 'Extract sprites' being destroyed
+[2019.01.05-05.30.14:364][443]LogSlate: Window 'Extract sprites' being destroyed
+[2019.01.05-05.30.14:883][492]LogSlate: Window 'Extract sprites' being destroyed
+[2019.01.05-05.30.15:378][540]LogSlate: Window 'Extract sprites' being destroyed
+[2019.01.05-05.30.15:894][592]LogSlate: Window 'Extract sprites' being destroyed
+[2019.01.05-05.30.16:396][643]LogSlate: Window 'Extract sprites' being destroyed
+[2019.01.05-05.30.23:635][487]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Run__000_Sprite_0C48E554945ED2DE64368FD97E74BF178.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/run/Run__000_Sprite_0.uasset'
+[2019.01.05-05.30.23:657][487]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Run__001_Sprite_007483F534CDD9488EC9172931607535A.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/run/Run__001_Sprite_0.uasset'
+[2019.01.05-05.30.23:679][487]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Run__002_Sprite_07C1DC86A4FCEA39EFF76BC8012BF9F22.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/run/Run__002_Sprite_0.uasset'
+[2019.01.05-05.30.23:701][487]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Run__003_Sprite_0C4097F8646C38B4ED8B69EA49CF672E5.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/run/Run__003_Sprite_0.uasset'
+[2019.01.05-05.30.23:723][487]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Run__004_Sprite_08EC5A76545DA5238C727F88E159AC332.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/run/Run__004_Sprite_0.uasset'
+[2019.01.05-05.30.23:745][487]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Run__005_Sprite_0142506A540693F83DBC46FA247B68442.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/run/Run__005_Sprite_0.uasset'
+[2019.01.05-05.30.23:766][487]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Run__006_Sprite_07DCF7AE54D081FBBC4920D9A904363A6.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/run/Run__006_Sprite_0.uasset'
+[2019.01.05-05.30.23:788][487]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Run__007_Sprite_0961203A8437C97F1E9F2D8ADCD873190.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/run/Run__007_Sprite_0.uasset'
+[2019.01.05-05.30.23:809][487]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Run__008_Sprite_0AECD3A0647BA383FD91375A61D348E73.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/run/Run__008_Sprite_0.uasset'
+[2019.01.05-05.30.23:831][487]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Run__009_Sprite_07A902E0244C5B8B3B75560B72F612775.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/run/Run__009_Sprite_0.uasset'
+[2019.01.05-05.30.41:779][602]LogAssetEditorManager: Opening Asset editor for PaperFlipbook /Game/Character/animations/sprites/run/run.run
+[2019.01.05-05.30.44:033][833]LogSlate: Window 'run*' being destroyed
+[2019.01.05-05.30.44:037][833]LogSlate: Window 'run*' being destroyed
+[2019.01.05-05.31.02:432][ 86]LogSlate: Window 'Delete Assets' being destroyed
+[2019.01.05-05.31.07:065][379]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Chris Yarbrough\Documents\Unreal Projects\beltbrothers\source\character\templerun\Run__002.png)
+[2019.01.05-05.31.07:070][379]LogTexture: Display: Building textures: Run__002 (BGRA8, 415X507)
+[2019.01.05-05.31.07:078][379]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Chris Yarbrough\Documents\Unreal Projects\beltbrothers\source\character\templerun\Run__003.png)
+[2019.01.05-05.31.07:084][379]LogTexture: Display: Building textures: Run__003 (BGRA8, 415X507)
+[2019.01.05-05.31.07:091][379]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Chris Yarbrough\Documents\Unreal Projects\beltbrothers\source\character\templerun\Run__004.png)
+[2019.01.05-05.31.07:097][379]LogTexture: Display: Building textures: Run__004 (BGRA8, 415X507)
+[2019.01.05-05.31.07:104][379]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Chris Yarbrough\Documents\Unreal Projects\beltbrothers\source\character\templerun\Run__005.png)
+[2019.01.05-05.31.07:109][379]LogTexture: Display: Building textures: Run__005 (BGRA8, 415X507)
+[2019.01.05-05.31.07:116][379]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Chris Yarbrough\Documents\Unreal Projects\beltbrothers\source\character\templerun\Run__006.png)
+[2019.01.05-05.31.07:121][379]LogTexture: Display: Building textures: Run__006 (BGRA8, 415X507)
+[2019.01.05-05.31.07:128][379]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Chris Yarbrough\Documents\Unreal Projects\beltbrothers\source\character\templerun\Run__007.png)
+[2019.01.05-05.31.07:134][379]LogTexture: Display: Building textures: Run__007 (BGRA8, 415X507)
+[2019.01.05-05.31.07:141][379]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Chris Yarbrough\Documents\Unreal Projects\beltbrothers\source\character\templerun\Run__008.png)
+[2019.01.05-05.31.07:146][379]LogTexture: Display: Building textures: Run__008 (BGRA8, 415X507)
+[2019.01.05-05.31.07:154][379]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Chris Yarbrough\Documents\Unreal Projects\beltbrothers\source\character\templerun\Run__009.png)
+[2019.01.05-05.31.07:159][379]LogTexture: Display: Building textures: Run__009 (BGRA8, 415X507)
+[2019.01.05-05.31.07:166][379]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Chris Yarbrough\Documents\Unreal Projects\beltbrothers\source\character\templerun\Run__000.png)
+[2019.01.05-05.31.07:172][379]LogTexture: Display: Building textures: Run__000 (BGRA8, 415X507)
+[2019.01.05-05.31.07:179][379]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Chris Yarbrough\Documents\Unreal Projects\beltbrothers\source\character\templerun\Run__001.png)
+[2019.01.05-05.31.07:186][379]LogTexture: Display: Building textures: Run__001 (BGRA8, 415X507)
+[2019.01.05-05.31.11:128][589]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Run__000B297557C4F8D01761B1AB1BC117493EA.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/run/Run__000.uasset'
+[2019.01.05-05.31.11:156][589]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Run__009DFB3099244A94DE592B72D9605DE2E6A.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/run/Run__009.uasset'
+[2019.01.05-05.31.11:186][589]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Run__008AEE494094B036501F4B20994D18B9BFD.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/run/Run__008.uasset'
+[2019.01.05-05.31.11:213][589]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Run__007C3D9F76A435AB2A54EF54BBAD0824E92.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/run/Run__007.uasset'
+[2019.01.05-05.31.11:240][589]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Run__00654C1D44F4438D8832D7E1CB8DF9D44B1.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/run/Run__006.uasset'
+[2019.01.05-05.31.11:268][589]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Run__0059E706270466B76CD922322A8BA36B49B.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/run/Run__005.uasset'
+[2019.01.05-05.31.11:297][589]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Run__004A0DEF72C400E48F180736A93977FEC82.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/run/Run__004.uasset'
+[2019.01.05-05.31.11:326][589]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Run__00306930F5F46CC71A076CADA88C661CC6E.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/run/Run__003.uasset'
+[2019.01.05-05.31.11:354][589]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Run__0025996149E47CCA848BBFCE9B508AD3C2C.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/run/Run__002.uasset'
+[2019.01.05-05.31.11:381][589]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Run__00174D2776041F73DF0622FA88DF684FACA.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/run/Run__001.uasset'
+[2019.01.05-05.31.26:404][700]LogSlate: Window 'Delete Assets' being destroyed
+[2019.01.05-05.31.57:054][192]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Run__006_Sprite53870EF64DBA1335462F56B940AB26C3.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/run/Run__006_Sprite.uasset'
+[2019.01.05-05.31.57:075][192]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Run__009_SpriteBE4C198D40EA1D20C535A9B443D872CE.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/run/Run__009_Sprite.uasset'
+[2019.01.05-05.31.57:097][192]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Run__008_Sprite5E306E1F4597ECD20CCBF69E7CF5F021.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/run/Run__008_Sprite.uasset'
+[2019.01.05-05.31.57:118][192]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Run__007_SpriteDCAC45774A680CD371A9B6AA716D5029.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/run/Run__007_Sprite.uasset'
+[2019.01.05-05.31.57:139][192]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Run__005_Sprite42D59242468F7C5C8819C2A80F6E4847.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/run/Run__005_Sprite.uasset'
+[2019.01.05-05.31.57:161][192]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Run__000_SpriteE3F112204750EABE6129E295F0C0CA3C.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/run/Run__000_Sprite.uasset'
+[2019.01.05-05.31.57:184][192]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Run__004_SpriteA83708EA4E850FD8E1613A886B8C90D0.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/run/Run__004_Sprite.uasset'
+[2019.01.05-05.31.57:207][192]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Run__003_Sprite10E8C0D24C8A8D3E019605B6050A4F0B.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/run/Run__003_Sprite.uasset'
+[2019.01.05-05.31.57:229][192]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Run__002_Sprite8B698F024FFF81A9B0C3C09FD7A0A035.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/run/Run__002_Sprite.uasset'
+[2019.01.05-05.31.57:250][192]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Run__001_Sprite8B05E9D24A08181EC547F49A73A62C38.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/run/Run__001_Sprite.uasset'
+[2019.01.05-05.31.57:270][192]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Run49C0BEF641F2662E447575BD2C28B8D4.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/run/Run.uasset'
+[2019.01.05-05.32.00:940][621]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Run19AFBF6D4846DAF084BBEC9565EB9B87.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/flipbooks/Run.uasset'
+[2019.01.05-05.32.10:364][726]LogAssetEditorManager: Opening Asset editor for PaperFlipbook /Game/Character/animations/flipbooks/Run.Run
+[2019.01.05-05.33.46:965][ 23]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/RunBC1567214DB4E3430C262BBC5FED9B12.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/flipbooks/Run.uasset'
+[2019.01.05-05.33.49:765][295]LogSlate: Window 'Run' being destroyed
+[2019.01.05-05.33.49:769][295]LogSlate: Window 'Run' being destroyed
+[2019.01.05-05.34.30:120][837]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Character/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2019.01.05-05.34.30:586][837]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0011 seconds. Added 117 classes and 0 folders.
+[2019.01.05-05.34.31:622][838]LogSlate: Took 0.004259 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.01.05-05.37.19:244][658]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2019.01.05-05.37.22:424][914]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/2DSideScrollerCharacterE1CF0A47487D65B360F39E81FC7C4D94.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/2DSideScrollerCharacter.uasset'
+[2019.01.05-05.37.41:920][767]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.05-05.38.12:596][614]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.05-05.38.12:709][621]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/2DSideScrollerCharacter90A5864B469A9FC23445709170D21836.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/2DSideScrollerCharacter.uasset'
+[2019.01.05-05.38.13:685][710]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2019.01.05-05.38.14:712][798]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/2DSideScrollerCharacterB2CC78494FE840D22A91D0B5C66D9482.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/2DSideScrollerCharacter.uasset'
+[2019.01.05-05.38.16:267][978]LogSlate: Window '2DSideScrollerCharacter' being destroyed
+[2019.01.05-05.38.16:270][978]LogSlate: Window '2DSideScrollerCharacter' being destroyed
+[2019.01.05-05.38.19:783][391]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Character/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2019.01.05-05.38.40:380][801]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.05-05.39.00:745][832]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.05-05.39.08:854][635]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2019.01.05-05.39.10:136][750]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/2DSideScrollerCharacter9FF117274096A88F12CC9E947C28863C.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/2DSideScrollerCharacter.uasset'
+[2019.01.05-05.39.16:101][462]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.05-05.39.16:119][462]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.01.05-05.39.16:120][462]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.05-05.39.16:120][462]PIE: New page: PIE session: 2DSideScrollerExampleMap (Jan 4, 2019, 7:39:16 PM)
+[2019.01.05-05.39.16:121][462]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2019.01.05-05.39.16:123][462]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002775s)
+[2019.01.05-05.39.16:124][462]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2019.01.05-05.39.16:124][462]LogPlayLevel: PIE: World Init took: (0.000510s)
+[2019.01.05-05.39.16:124][462]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.003402s)
+[2019.01.05-05.39.16:185][462]LogInit: XAudio2 using 'Headphones (SteelSeries Arctis 7 Game)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.05-05.39.16:195][462]LogInit: FAudioDevice initialized.
+[2019.01.05-05.39.16:226][462]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.01.05-05.39.16:227][462]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2019.01.05-00.39.16
+[2019.01.05-05.39.16:228][462]LogWorld: Bringing up level for play took: 0.000880
+[2019.01.05-05.39.16:240][462]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap -0.41
+[2019.01.05-05.39.16:240][462]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.01.05-05.39.35:436][765]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.01.05-05.39.35:436][765]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.05-05.39.35:471][765]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.05-05.39.35:472][765]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.01.05-05.39.35:503][765]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.05-05.39.35:543][768]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.01.05-05.39.45:333][942]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.05-05.40.03:738][177]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Chris Yarbrough\Documents\Unreal Projects\beltbrothers\source\character\templerun\Jump__000.png)
+[2019.01.05-05.40.03:745][177]LogTexture: Display: Building textures: Jump__000 (BGRA8, 407X536)
+[2019.01.05-05.40.03:755][177]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Chris Yarbrough\Documents\Unreal Projects\beltbrothers\source\character\templerun\Jump__001.png)
+[2019.01.05-05.40.03:762][177]LogTexture: Display: Building textures: Jump__001 (BGRA8, 407X536)
+[2019.01.05-05.40.03:772][177]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Chris Yarbrough\Documents\Unreal Projects\beltbrothers\source\character\templerun\Jump__002.png)
+[2019.01.05-05.40.03:779][177]LogTexture: Display: Building textures: Jump__002 (BGRA8, 407X536)
+[2019.01.05-05.40.03:788][177]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Chris Yarbrough\Documents\Unreal Projects\beltbrothers\source\character\templerun\Jump__003.png)
+[2019.01.05-05.40.03:793][177]LogTexture: Display: Building textures: Jump__003 (BGRA8, 407X536)
+[2019.01.05-05.40.03:803][177]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Chris Yarbrough\Documents\Unreal Projects\beltbrothers\source\character\templerun\Jump__004.png)
+[2019.01.05-05.40.03:809][177]LogTexture: Display: Building textures: Jump__004 (BGRA8, 407X536)
+[2019.01.05-05.40.03:818][177]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Chris Yarbrough\Documents\Unreal Projects\beltbrothers\source\character\templerun\Jump__005.png)
+[2019.01.05-05.40.03:824][177]LogTexture: Display: Building textures: Jump__005 (BGRA8, 407X536)
+[2019.01.05-05.40.03:834][177]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Chris Yarbrough\Documents\Unreal Projects\beltbrothers\source\character\templerun\Jump__006.png)
+[2019.01.05-05.40.03:839][177]LogTexture: Display: Building textures: Jump__006 (BGRA8, 407X536)
+[2019.01.05-05.40.03:849][177]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Chris Yarbrough\Documents\Unreal Projects\beltbrothers\source\character\templerun\Jump__007.png)
+[2019.01.05-05.40.03:854][177]LogTexture: Display: Building textures: Jump__007 (BGRA8, 407X536)
+[2019.01.05-05.40.03:864][177]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Chris Yarbrough\Documents\Unreal Projects\beltbrothers\source\character\templerun\Jump__008.png)
+[2019.01.05-05.40.03:869][177]LogTexture: Display: Building textures: Jump__008 (BGRA8, 407X536)
+[2019.01.05-05.40.03:879][177]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Chris Yarbrough\Documents\Unreal Projects\beltbrothers\source\character\templerun\Jump__009.png)
+[2019.01.05-05.40.03:885][177]LogTexture: Display: Building textures: Jump__009 (BGRA8, 407X536)
+[2019.01.05-05.40.18:596][715]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Jump__009_Sprite6942A926401F6E5A8265AF8190F1790A.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/jump/Jump__009_Sprite.uasset'
+[2019.01.05-05.40.18:621][715]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Jump__008_SpriteFFAA9ED148F72D16109FF390563EF8BC.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/jump/Jump__008_Sprite.uasset'
+[2019.01.05-05.40.18:644][715]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Jump__007_Sprite37028716459CAABDB40B789243F9E740.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/jump/Jump__007_Sprite.uasset'
+[2019.01.05-05.40.18:665][715]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Jump__006_Sprite51F213214EE6BC58A7AF339478DE393A.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/jump/Jump__006_Sprite.uasset'
+[2019.01.05-05.40.18:689][715]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Jump__005_SpriteEDD9671C4D7DCCB1CD456D800442F147.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/jump/Jump__005_Sprite.uasset'
+[2019.01.05-05.40.18:712][715]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Jump__004_SpriteE70F5DBA4ACB104E293A678D81AEE1AC.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/jump/Jump__004_Sprite.uasset'
+[2019.01.05-05.40.18:733][715]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Jump__003_SpriteFB58B80C419EC8BFE176DFBC951B134E.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/jump/Jump__003_Sprite.uasset'
+[2019.01.05-05.40.18:755][715]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Jump__002_SpriteD151EFAF406D65649577568D87557F7C.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/jump/Jump__002_Sprite.uasset'
+[2019.01.05-05.40.18:778][715]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Jump__001_Sprite83F58DD048AF22F39B57FBAB7E69A4E4.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/jump/Jump__001_Sprite.uasset'
+[2019.01.05-05.40.18:799][715]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Jump__000_Sprite5D0E1BCC4A2F0F56FDC7D8BB0707A62F.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/jump/Jump__000_Sprite.uasset'
+[2019.01.05-05.40.18:826][715]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Jump__0099C5F98264482D265253A64BE19E22B2F.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/jump/Jump__009.uasset'
+[2019.01.05-05.40.18:854][715]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Jump__008FF6A974641378B4BFB21C399EBD64BB5.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/jump/Jump__008.uasset'
+[2019.01.05-05.40.18:881][715]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Jump__0073422B0C34D37500DC7BA1EA158608C60.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/jump/Jump__007.uasset'
+[2019.01.05-05.40.18:908][715]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Jump__006F4C3943C4D91AC2B75C475879F945D2E.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/jump/Jump__006.uasset'
+[2019.01.05-05.40.18:936][715]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Jump__005DE92B12544FB864273A25CAE5B6138D9.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/jump/Jump__005.uasset'
+[2019.01.05-05.40.18:968][715]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Jump__00456C0C11E4B8A47980D081CB2CF2F6686.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/jump/Jump__004.uasset'
+[2019.01.05-05.40.18:997][715]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Jump__0037446C50541E595398E1D92928A4185D8.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/jump/Jump__003.uasset'
+[2019.01.05-05.40.19:029][715]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Jump__002F199836F473AC6E94C293E84877DB9B2.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/jump/Jump__002.uasset'
+[2019.01.05-05.40.19:057][715]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Jump__001BD6D94D64EC9FDB7063CDEA212598BF2.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/jump/Jump__001.uasset'
+[2019.01.05-05.40.19:085][715]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Jump__0008FAD621E4657588B9CF2F893190DC8C1.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/jump/Jump__000.uasset'
+[2019.01.05-05.40.25:556][471]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Jump4FA4E84840C2FDAF32A335B65C5280D5.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/flipbooks/Jump.uasset'
+[2019.01.05-05.40.36:888][742]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.05-05.41.05:856][745]Cmd: TRANSACTION UNDO
+[2019.01.05-05.41.05:856][745]LogEditorTransaction: Undo Add Node
+[2019.01.05-05.43.00:995][ 97]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2019.01.05-05.43.02:627][242]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/2DSideScrollerCharacter891A96C0489D5AB16A48B3A56CCF0A82.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/2DSideScrollerCharacter.uasset'
+[2019.01.05-05.43.03:813][372]LogSlate: Window '2DSideScrollerCharacter' being destroyed
+[2019.01.05-05.43.03:816][372]LogSlate: Window '2DSideScrollerCharacter' being destroyed
+[2019.01.05-05.43.05:094][517]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.05-05.43.05:107][517]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.01.05-05.43.05:107][517]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.05-05.43.05:107][517]PIE: New page: PIE session: 2DSideScrollerExampleMap (Jan 4, 2019, 7:43:05 PM)
+[2019.01.05-05.43.05:107][517]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2019.01.05-05.43.05:110][517]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003124s)
+[2019.01.05-05.43.05:111][517]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2019.01.05-05.43.05:111][517]LogPlayLevel: PIE: World Init took: (0.000519s)
+[2019.01.05-05.43.05:111][517]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.003762s)
+[2019.01.05-05.43.05:173][517]LogInit: XAudio2 using 'Headphones (SteelSeries Arctis 7 Game)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.05-05.43.05:183][517]LogInit: FAudioDevice initialized.
+[2019.01.05-05.43.05:218][517]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.01.05-05.43.05:219][517]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2019.01.05-00.43.05
+[2019.01.05-05.43.05:219][517]LogWorld: Bringing up level for play took: 0.000953
+[2019.01.05-05.43.05:232][517]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap 0.582
+[2019.01.05-05.43.05:232][517]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.01.05-05.43.33:746][938]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.01.05-05.43.33:746][938]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.05-05.43.33:780][938]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.05-05.43.33:781][938]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.01.05-05.43.33:814][938]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.05-05.43.33:849][941]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.01.05-05.43.50:925][988]Cmd: SELECT NONE
+[2019.01.05-05.44.37:053][595]LogEditorViewport: Clicking on Actor (context menu): PaperSpriteActor (Background_Sprite)
+[2019.01.05-05.44.37:097][595]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.05-05.44.38:281][733]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2019.01.05-05.45.05:913][148]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/2DSideScrollerExampleMap_Auto13AC5EE074D4749D5D0F8A28AF093425F.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Autosaves/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_Auto1.umap'
+[2019.01.05-05.45.05:917][148]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.214
+[2019.01.05-05.45.05:917][148]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.214
+[2019.01.05-05.45.05:918][148]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode] ([1] browsable assets)...
+[2019.01.05-05.45.05:918][148]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode]
+[2019.01.05-05.45.05:933][148]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/2DSideScrollerGameMode_Auto1E4140A22482CC260E175EAA2226CD0AA.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Autosaves/Game/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode_Auto1.uasset'
+[2019.01.05-05.45.05:934][148]LogFileHelpers: Auto-saving content packages took 0.016
+[2019.01.05-05.46.46:001][447]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.05-05.46.54:607][131]LogSlate: Window 'Delete Assets' being destroyed
+[2019.01.05-05.47.06:997][835]LogSlate: Window 'Delete Assets' being destroyed
+[2019.01.05-05.47.22:185][576]LogSlate: Window 'Delete Assets' being destroyed
+[2019.01.05-05.47.36:238][123]LogSlate: Window 'Delete Assets' being destroyed
+[2019.01.05-05.55.06:272][130]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/2DSideScrollerExampleMap_Auto24C0C148243390C4D02DA98A8595E1009.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Autosaves/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_Auto2.umap'
+[2019.01.05-05.55.06:275][130]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.208
+[2019.01.05-05.55.06:275][130]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.208
+[2019.01.05-05.55.06:276][130]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Character/2DSideScrollerCharacter] ([1] browsable assets)...
+[2019.01.05-05.55.06:276][130]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/2DSideScrollerCharacter]
+[2019.01.05-05.55.06:319][130]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/2DSideScrollerCharacter_Auto23ECFE1274335F044FF54AC9DB0E32C86.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Autosaves/Game/Character/2DSideScrollerCharacter_Auto2.uasset'
+[2019.01.05-05.55.06:320][130]LogFileHelpers: Auto-saving content packages took 0.045
+[2019.01.05-05.59.25:098][944]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Chris Yarbrough\Documents\Unreal Projects\beltbrothers\source\character\png\Idle__001.png)
+[2019.01.05-05.59.25:103][944]LogTexture: Display: Building textures: Idle__001 (BGRA8, 232X439)
+[2019.01.05-05.59.25:111][944]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Chris Yarbrough\Documents\Unreal Projects\beltbrothers\source\character\png\Idle__002.png)
+[2019.01.05-05.59.25:115][944]LogTexture: Display: Building textures: Idle__002 (BGRA8, 232X439)
+[2019.01.05-05.59.25:122][944]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Chris Yarbrough\Documents\Unreal Projects\beltbrothers\source\character\png\Idle__003.png)
+[2019.01.05-05.59.25:127][944]LogTexture: Display: Building textures: Idle__003 (BGRA8, 232X439)
+[2019.01.05-05.59.25:134][944]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Chris Yarbrough\Documents\Unreal Projects\beltbrothers\source\character\png\Idle__004.png)
+[2019.01.05-05.59.25:139][944]LogTexture: Display: Building textures: Idle__004 (BGRA8, 232X439)
+[2019.01.05-05.59.25:145][944]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Chris Yarbrough\Documents\Unreal Projects\beltbrothers\source\character\png\Idle__005.png)
+[2019.01.05-05.59.25:150][944]LogTexture: Display: Building textures: Idle__005 (BGRA8, 232X439)
+[2019.01.05-05.59.25:159][944]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Chris Yarbrough\Documents\Unreal Projects\beltbrothers\source\character\png\Idle__006.png)
+[2019.01.05-05.59.25:163][944]LogTexture: Display: Building textures: Idle__006 (BGRA8, 232X439)
+[2019.01.05-05.59.25:171][944]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Chris Yarbrough\Documents\Unreal Projects\beltbrothers\source\character\png\Idle__007.png)
+[2019.01.05-05.59.25:176][944]LogTexture: Display: Building textures: Idle__007 (BGRA8, 232X439)
+[2019.01.05-05.59.25:184][944]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Chris Yarbrough\Documents\Unreal Projects\beltbrothers\source\character\png\Idle__008.png)
+[2019.01.05-05.59.25:188][944]LogTexture: Display: Building textures: Idle__008 (BGRA8, 232X439)
+[2019.01.05-05.59.25:195][944]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Chris Yarbrough\Documents\Unreal Projects\beltbrothers\source\character\png\Idle__009.png)
+[2019.01.05-05.59.25:199][944]LogTexture: Display: Building textures: Idle__009 (BGRA8, 232X439)
+[2019.01.05-05.59.25:206][944]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Chris Yarbrough\Documents\Unreal Projects\beltbrothers\source\character\png\Idle__000.png)
+[2019.01.05-05.59.25:211][944]LogTexture: Display: Building textures: Idle__000 (BGRA8, 232X439)
+[2019.01.05-05.59.27:900][ 42]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Idle__0064EC8AAA84F74D9D340326CA60EA7AFA8.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/idle/Idle__006.uasset'
+[2019.01.05-05.59.27:927][ 42]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Idle__00566B677F94E87102A2B35388DBFF31CC7.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/idle/Idle__005.uasset'
+[2019.01.05-05.59.27:949][ 42]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Idle__0041942F84746E934F00E454D986B2A6866.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/idle/Idle__004.uasset'
+[2019.01.05-05.59.27:974][ 42]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Idle__003A813F59945901117E277E3B6A05C6088.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/idle/Idle__003.uasset'
+[2019.01.05-05.59.27:997][ 42]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Idle__002587B33B6498B0B38131FA2A07F1F42BA.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/idle/Idle__002.uasset'
+[2019.01.05-05.59.28:020][ 42]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Idle__0012BF8D7FA43E529D7181D569FDD0770F9.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/idle/Idle__001.uasset'
+[2019.01.05-05.59.28:042][ 42]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Idle__0000078005D46DAA08CD1E35C90E1107852.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/idle/Idle__000.uasset'
+[2019.01.05-05.59.28:065][ 42]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Idle__009810B71E0460B6FCCABA635B9C8BE510B.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/idle/Idle__009.uasset'
+[2019.01.05-05.59.28:089][ 42]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Idle__0083B44936F446F513221C0F5A8F3CBB9B4.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/idle/Idle__008.uasset'
+[2019.01.05-05.59.28:114][ 42]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Idle__007150296834D9CD9ACF551AE9874857AC5.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/idle/Idle__007.uasset'
+[2019.01.05-05.59.54:386][ 61]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Chris Yarbrough\Documents\Unreal Projects\beltbrothers\source\character\png\Jump__002.png)
+[2019.01.05-05.59.54:392][ 61]LogTexture: Display: Building textures: Jump__002 (BGRA8, 362X483)
+[2019.01.05-05.59.54:400][ 61]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Chris Yarbrough\Documents\Unreal Projects\beltbrothers\source\character\png\Jump__003.png)
+[2019.01.05-05.59.54:406][ 61]LogTexture: Display: Building textures: Jump__003 (BGRA8, 362X483)
+[2019.01.05-05.59.54:415][ 61]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Chris Yarbrough\Documents\Unreal Projects\beltbrothers\source\character\png\Jump__004.png)
+[2019.01.05-05.59.54:420][ 61]LogTexture: Display: Building textures: Jump__004 (BGRA8, 362X483)
+[2019.01.05-05.59.54:429][ 61]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Chris Yarbrough\Documents\Unreal Projects\beltbrothers\source\character\png\Jump__005.png)
+[2019.01.05-05.59.54:434][ 61]LogTexture: Display: Building textures: Jump__005 (BGRA8, 362X483)
+[2019.01.05-05.59.54:442][ 61]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Chris Yarbrough\Documents\Unreal Projects\beltbrothers\source\character\png\Jump__006.png)
+[2019.01.05-05.59.54:448][ 61]LogTexture: Display: Building textures: Jump__006 (BGRA8, 362X483)
+[2019.01.05-05.59.54:457][ 61]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Chris Yarbrough\Documents\Unreal Projects\beltbrothers\source\character\png\Jump__007.png)
+[2019.01.05-05.59.54:462][ 61]LogTexture: Display: Building textures: Jump__007 (BGRA8, 362X483)
+[2019.01.05-05.59.54:473][ 61]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Chris Yarbrough\Documents\Unreal Projects\beltbrothers\source\character\png\Jump__008.png)
+[2019.01.05-05.59.54:479][ 61]LogTexture: Display: Building textures: Jump__008 (BGRA8, 362X483)
+[2019.01.05-05.59.54:489][ 61]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Chris Yarbrough\Documents\Unreal Projects\beltbrothers\source\character\png\Jump__009.png)
+[2019.01.05-05.59.54:495][ 61]LogTexture: Display: Building textures: Jump__009 (BGRA8, 362X483)
+[2019.01.05-05.59.54:504][ 61]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Chris Yarbrough\Documents\Unreal Projects\beltbrothers\source\character\png\Jump__000.png)
+[2019.01.05-05.59.54:509][ 61]LogTexture: Display: Building textures: Jump__000 (BGRA8, 362X483)
+[2019.01.05-05.59.54:518][ 61]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Chris Yarbrough\Documents\Unreal Projects\beltbrothers\source\character\png\Jump__001.png)
+[2019.01.05-05.59.54:524][ 61]LogTexture: Display: Building textures: Jump__001 (BGRA8, 362X483)
+[2019.01.05-06.00.04:728][535]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Chris Yarbrough\Documents\Unreal Projects\beltbrothers\source\character\png\Run__001.png)
+[2019.01.05-06.00.04:733][535]LogTexture: Display: Building textures: Run__001 (BGRA8, 363X458)
+[2019.01.05-06.00.04:741][535]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Chris Yarbrough\Documents\Unreal Projects\beltbrothers\source\character\png\Run__002.png)
+[2019.01.05-06.00.04:747][535]LogTexture: Display: Building textures: Run__002 (BGRA8, 363X458)
+[2019.01.05-06.00.04:754][535]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Chris Yarbrough\Documents\Unreal Projects\beltbrothers\source\character\png\Run__003.png)
+[2019.01.05-06.00.04:759][535]LogTexture: Display: Building textures: Run__003 (BGRA8, 363X458)
+[2019.01.05-06.00.04:767][535]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Chris Yarbrough\Documents\Unreal Projects\beltbrothers\source\character\png\Run__004.png)
+[2019.01.05-06.00.04:773][535]LogTexture: Display: Building textures: Run__004 (BGRA8, 363X458)
+[2019.01.05-06.00.04:781][535]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Chris Yarbrough\Documents\Unreal Projects\beltbrothers\source\character\png\Run__005.png)
+[2019.01.05-06.00.04:786][535]LogTexture: Display: Building textures: Run__005 (BGRA8, 363X458)
+[2019.01.05-06.00.04:794][535]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Chris Yarbrough\Documents\Unreal Projects\beltbrothers\source\character\png\Run__006.png)
+[2019.01.05-06.00.04:799][535]LogTexture: Display: Building textures: Run__006 (BGRA8, 363X458)
+[2019.01.05-06.00.04:807][535]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Chris Yarbrough\Documents\Unreal Projects\beltbrothers\source\character\png\Run__007.png)
+[2019.01.05-06.00.04:812][535]LogTexture: Display: Building textures: Run__007 (BGRA8, 363X458)
+[2019.01.05-06.00.04:820][535]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Chris Yarbrough\Documents\Unreal Projects\beltbrothers\source\character\png\Run__008.png)
+[2019.01.05-06.00.04:825][535]LogTexture: Display: Building textures: Run__008 (BGRA8, 363X458)
+[2019.01.05-06.00.04:834][535]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Chris Yarbrough\Documents\Unreal Projects\beltbrothers\source\character\png\Run__009.png)
+[2019.01.05-06.00.04:839][535]LogTexture: Display: Building textures: Run__009 (BGRA8, 363X458)
+[2019.01.05-06.00.04:846][535]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Chris Yarbrough\Documents\Unreal Projects\beltbrothers\source\character\png\Run__000.png)
+[2019.01.05-06.00.04:852][535]LogTexture: Display: Building textures: Run__000 (BGRA8, 363X458)
+[2019.01.05-06.00.35:244][960]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Idle__009_SpriteA9C139C24FC83A0C7EA1719135379730.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/idle/Idle__009_Sprite.uasset'
+[2019.01.05-06.00.35:269][960]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Idle__008_Sprite0FD3D9D8450DEA8F03D676B68257A7F5.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/idle/Idle__008_Sprite.uasset'
+[2019.01.05-06.00.35:291][960]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Idle__007_SpriteD2B9C57C43CE7EC02D8E6B83D2AD17A5.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/idle/Idle__007_Sprite.uasset'
+[2019.01.05-06.00.35:313][960]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Idle__006_Sprite8B1E17864CC732D3AD0F478D0A8C49B8.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/idle/Idle__006_Sprite.uasset'
+[2019.01.05-06.00.35:335][960]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Idle__005_SpriteE79C7B9E487BF789424EB88E08A0180A.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/idle/Idle__005_Sprite.uasset'
+[2019.01.05-06.00.35:357][960]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Idle__004_Sprite1CEEFBD744F875D8D0DAC88ACDAC5797.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/idle/Idle__004_Sprite.uasset'
+[2019.01.05-06.00.35:378][960]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Idle__003_Sprite5436814E4915D75E2507388A7ECBDE2B.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/idle/Idle__003_Sprite.uasset'
+[2019.01.05-06.00.35:400][960]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Idle__002_SpriteD6ECCF2549A6A3F2304306AD4DAB6CDA.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/idle/Idle__002_Sprite.uasset'
+[2019.01.05-06.00.35:423][960]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Idle__001_Sprite36EF4D834A2680807F15CE9967268AE0.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/idle/Idle__001_Sprite.uasset'
+[2019.01.05-06.00.35:444][960]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Idle__000_SpriteF286B7684A9F1C58A3CEC49DC59B10DC.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/idle/Idle__000_Sprite.uasset'
+[2019.01.05-06.00.35:466][960]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/IdleB86DEA27405244BA119A7C98DAF9A1CA.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/idle/Idle.uasset'
+[2019.01.05-06.00.55:900][300]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Jump8F70B063419E1D1EF9B09695B41FAE67.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/flipbooks/Jump.uasset'
+[2019.01.05-06.00.57:668][480]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Jump__001ECDC6F054F357581D2F2E5B9B6EBF3C1.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/jump/Jump__001.uasset'
+[2019.01.05-06.00.57:697][480]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Jump__002094D4DB34D5412DB1BAA0F8CD3EDE917.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/jump/Jump__002.uasset'
+[2019.01.05-06.00.57:725][480]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Jump__000BA77439C40A4D5582EC5BC8B5EECFD76.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/jump/Jump__000.uasset'
+[2019.01.05-06.00.57:756][480]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Jump__00962F788054A82DB2B205604B703ADDF3A.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/jump/Jump__009.uasset'
+[2019.01.05-06.00.57:785][480]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Jump__008EA2D64374189E09E420E9897403B89FB.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/jump/Jump__008.uasset'
+[2019.01.05-06.00.57:811][480]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Jump__00738DE40F249820D335845A58BE7D9C43D.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/jump/Jump__007.uasset'
+[2019.01.05-06.00.57:839][480]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Jump__00693DF1B3D4EAD9A55A50EBA86F6E9013F.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/jump/Jump__006.uasset'
+[2019.01.05-06.00.57:865][480]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Jump__0053BFDDF7F44F8DD69CD67349EEFE5D84B.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/jump/Jump__005.uasset'
+[2019.01.05-06.00.57:891][480]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Jump__004F61662EE47F6B55A86D34289A0811862.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/jump/Jump__004.uasset'
+[2019.01.05-06.00.57:912][480]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Jump__004_Sprite95EA38554FC15AA90D70DAAEA90679FC.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/jump/Jump__004_Sprite.uasset'
+[2019.01.05-06.00.57:939][480]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Jump__003F026195E4ED504F948C0A095A0A72323.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/jump/Jump__003.uasset'
+[2019.01.05-06.00.57:960][480]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Jump__003_SpriteE0BE66BB4736ACBFC64E6C8C7D8B6F86.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/jump/Jump__003_Sprite.uasset'
+[2019.01.05-06.00.57:982][480]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Jump__002_SpriteC508BC5046944135B43AA0814358120E.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/jump/Jump__002_Sprite.uasset'
+[2019.01.05-06.00.58:003][480]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Jump__001_SpriteF51BD567446A500617DFCF9C92E55A34.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/jump/Jump__001_Sprite.uasset'
+[2019.01.05-06.00.58:025][480]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Jump__000_Sprite6749A96D4903AFE192D494BAFF9EA717.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/jump/Jump__000_Sprite.uasset'
+[2019.01.05-06.00.58:047][480]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Jump__009_Sprite54E780234376178DD767FCBDE969142F.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/jump/Jump__009_Sprite.uasset'
+[2019.01.05-06.00.58:070][480]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Jump__008_Sprite605EB26F4AB072BA112FE8B26DCE2F2C.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/jump/Jump__008_Sprite.uasset'
+[2019.01.05-06.00.58:091][480]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Jump__007_Sprite128DA52D4C926700050C2D94FA1A24EB.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/jump/Jump__007_Sprite.uasset'
+[2019.01.05-06.00.58:113][480]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Jump__006_Sprite328D88F2477EADBBB4F62EA8009EC528.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/jump/Jump__006_Sprite.uasset'
+[2019.01.05-06.00.58:134][480]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Jump__005_Sprite77B6012148120D7285F0A88E6BC8142A.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/jump/Jump__005_Sprite.uasset'
+[2019.01.05-06.01.05:036][281]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Idle4A5447D741A245F505812C87089D09E6.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/flipbooks/Idle.uasset'
+[2019.01.05-06.01.18:195][720]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/RunC3CE5F214F89998C3B07CF9CC37E2925.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/flipbooks/Run.uasset'
+[2019.01.05-06.01.19:341][824]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Run__0003AD527624C028448808CB880F044AC6B.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/run/Run__000.uasset'
+[2019.01.05-06.01.19:367][824]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Run__009C6A1803544E94659D9045BB889689372.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/run/Run__009.uasset'
+[2019.01.05-06.01.19:393][824]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Run__008691C9DF24263E147735527B94E037E5D.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/run/Run__008.uasset'
+[2019.01.05-06.01.19:419][824]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Run__007E5F6A2A5472CAEDBEEE886A510401A23.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/run/Run__007.uasset'
+[2019.01.05-06.01.19:444][824]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Run__006A8D08CFB4280248808265FB200BCAD67.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/run/Run__006.uasset'
+[2019.01.05-06.01.19:471][824]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Run__005B547C49643566EB1A19C669C37CCF272.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/run/Run__005.uasset'
+[2019.01.05-06.01.19:497][824]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Run__00417F81B324CE31058C0CB388615B0F237.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/run/Run__004.uasset'
+[2019.01.05-06.01.19:519][824]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Run__009_Sprite3021EE264D4D1804379D33BA6D34CF41.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/run/Run__009_Sprite.uasset'
+[2019.01.05-06.01.19:545][824]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Run__0030FA898354ABE6BFAE75D03A7F5999C5B.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/run/Run__003.uasset'
+[2019.01.05-06.01.19:567][824]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Run__008_Sprite75D0D72A43268608A841B2BA1EA36DA8.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/run/Run__008_Sprite.uasset'
+[2019.01.05-06.01.19:593][824]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Run__002A9C22FD54B74CD83E6AA2482A0707A53.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/run/Run__002.uasset'
+[2019.01.05-06.01.19:614][824]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Run__007_SpriteC11580B7407D93F2ED347AA5762D7FE8.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/run/Run__007_Sprite.uasset'
+[2019.01.05-06.01.19:642][824]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Run__0012FCE1F7849D4FB46718AAFAFD84E232C.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/run/Run__001.uasset'
+[2019.01.05-06.01.19:663][824]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Run__006_Sprite84BC35FE4716F7BD5D2D799B863AB582.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/run/Run__006_Sprite.uasset'
+[2019.01.05-06.01.19:685][824]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Run__005_SpriteE6AAC40D44712432933CEDA3C03110F5.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/run/Run__005_Sprite.uasset'
+[2019.01.05-06.01.19:707][824]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Run__004_SpriteCFE48C174CA09B909671B0AA131B5219.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/run/Run__004_Sprite.uasset'
+[2019.01.05-06.01.19:729][824]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Run__003_SpriteEE873BF0479855ACA393838A5755912D.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/run/Run__003_Sprite.uasset'
+[2019.01.05-06.01.19:750][824]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Run__002_Sprite535A62C34969D2F6336FBD9272F53F8C.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/run/Run__002_Sprite.uasset'
+[2019.01.05-06.01.19:772][824]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Run__001_Sprite079108DF4BEB370DDF893799AB20959C.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/run/Run__001_Sprite.uasset'
+[2019.01.05-06.01.19:793][824]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Run__000_Sprite664081B84C3EABAC842CF297C57C30D0.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/run/Run__000_Sprite.uasset'
+[2019.01.05-06.01.26:772][640]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Character/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2019.01.05-06.01.51:534][564]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2019.01.05-06.01.54:127][743]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/2DSideScrollerCharacter535D6B94421E116DA5DCD2AD651B434D.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/2DSideScrollerCharacter.uasset'
+[2019.01.05-06.02.11:159][266]LogSlate: Window '2DSideScrollerCharacter' being destroyed
+[2019.01.05-06.02.11:162][266]LogSlate: Window '2DSideScrollerCharacter' being destroyed
+[2019.01.05-06.02.12:764][450]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2019.01.05-06.02.13:993][595]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.05-06.02.14:149][613]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Character/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2019.01.05-06.02.30:789][ 63]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.05-06.03.39:576][909]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.05-06.03.47:346][586]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.05-06.05.07:698][684]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.05-06.05.10:895][925]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.05-06.05.11:204][931]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/2DSideScrollerExampleMap_Auto378C448174E2F932FB332E29D2DC109B7.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Autosaves/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_Auto3.umap'
+[2019.01.05-06.05.11:206][931]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.213
+[2019.01.05-06.05.11:207][931]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.213
+[2019.01.05-06.05.11:208][931]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode] ([1] browsable assets)...
+[2019.01.05-06.05.11:208][931]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode]
+[2019.01.05-06.05.11:223][931]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/2DSideScrollerGameMode_Auto3043236E54C420A0A27E8A2A8B2328AFF.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Autosaves/Game/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode_Auto3.uasset'
+[2019.01.05-06.05.11:224][931]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Character/2DSideScrollerCharacter] ([1] browsable assets)...
+[2019.01.05-06.05.11:224][931]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/2DSideScrollerCharacter]
+[2019.01.05-06.05.11:266][931]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/2DSideScrollerCharacter_Auto316147D124C2ECA77FC78BB84950AC0EC.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Autosaves/Game/Character/2DSideScrollerCharacter_Auto3.uasset'
+[2019.01.05-06.05.11:267][931]LogFileHelpers: Auto-saving content packages took 0.060
+[2019.01.05-06.06.10:986][631]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.05-06.07.43:671][146]LogSlate: Window '2DSideScrollerCharacter*' being destroyed
+[2019.01.05-06.07.43:673][146]LogSlate: Window '2DSideScrollerCharacter*' being destroyed
+[2019.01.05-06.07.45:955][196]LogSlate: Window 'Save Content' being destroyed
+[2019.01.05-06.07.45:983][196]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/2DSideScrollerGameMode0D0DDDD745DA7AAFB333E59769A315FC.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.uasset'
+[2019.01.05-06.07.46:202][196]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/2DSideScrollerExampleMapADD47E774AF7D899E52AC7841AEA849F.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2019.01.05-06.07.46:224][196]LogFileHelpers: Saving map '2DSideScrollerExampleMap' took 0.231
+[2019.01.05-06.07.46:274][196]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/2DSideScrollerCharacter3B75942A439733C4ED22168410BFF537.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/2DSideScrollerCharacter.uasset'
+[2019.01.05-06.07.46:331][196]LogSlate: Window 'beltbrothers - Unreal Editor' being destroyed
+[2019.01.05-06.07.46:332][196]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.05-06.07.46:520][197]Cmd: QUIT_EDITOR
+[2019.01.05-06.07.47:546][197]LogExit: Preparing to exit.
+[2019.01.05-06.07.48:418][197]LogExit: Editor shut down
+[2019.01.05-06.07.48:418][197]LogExit: Transaction tracking system shut down
+[2019.01.05-06.07.48:673][197]LogExit: Object subsystem successfully closed.
+[2019.01.05-06.07.48:688][197]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.01.05-06.07.48:691][197]LogD3D11RHI: Shutdown
+[2019.01.05-06.07.48:691][197]LogD3D11RHI: CleanupD3DDevice
+[2019.01.05-06.07.48:695][197]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.01.05-06.07.48:717][197]LogModuleManager: Shutting down and abandoning module BlueprintGraph (628)
+[2019.01.05-06.07.48:717][197]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (626)
+[2019.01.05-06.07.48:717][197]LogModuleManager: Shutting down and abandoning module Voice (624)
+[2019.01.05-06.07.48:718][197]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (622)
+[2019.01.05-06.07.48:718][197]LogModuleManager: Shutting down and abandoning module SceneOutliner (620)
+[2019.01.05-06.07.48:718][197]LogModuleManager: Shutting down and abandoning module AddContentDialog (618)
+[2019.01.05-06.07.48:718][197]LogModuleManager: Shutting down and abandoning module WidgetCarousel (617)
+[2019.01.05-06.07.48:718][197]LogModuleManager: Shutting down and abandoning module EditorWidgets (614)
+[2019.01.05-06.07.48:718][197]LogModuleManager: Shutting down and abandoning module CollectionManager (612)
+[2019.01.05-06.07.48:719][197]LogModuleManager: Shutting down and abandoning module StatsViewer (610)
+[2019.01.05-06.07.48:719][197]LogModuleManager: Shutting down and abandoning module FoliageEdit (608)
+[2019.01.05-06.07.48:719][197]LogModuleManager: Shutting down and abandoning module LandscapeEditor (606)
+[2019.01.05-06.07.48:719][197]LogModuleManager: Shutting down and abandoning module MeshPaintMode (604)
+[2019.01.05-06.07.48:719][197]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (602)
+[2019.01.05-06.07.48:719][197]LogModuleManager: Shutting down and abandoning module ActorPickerMode (600)
+[2019.01.05-06.07.48:719][197]LogModuleManager: Shutting down and abandoning module GeometryMode (598)
+[2019.01.05-06.07.48:719][197]LogModuleManager: Shutting down and abandoning module TextureAlignMode (596)
+[2019.01.05-06.07.48:719][197]LogModuleManager: Shutting down and abandoning module BspMode (594)
+[2019.01.05-06.07.48:719][197]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (592)
+[2019.01.05-06.07.48:719][197]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (590)
+[2019.01.05-06.07.48:719][197]LogModuleManager: Shutting down and abandoning module AutomationWorker (588)
+[2019.01.05-06.07.48:719][197]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (586)
+[2019.01.05-06.07.48:719][197]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (584)
+[2019.01.05-06.07.48:719][197]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (582)
+[2019.01.05-06.07.48:719][197]LogModuleManager: Shutting down and abandoning module PlacementMode (581)
+[2019.01.05-06.07.48:719][197]LogModuleManager: Shutting down and abandoning module MaterialEditor (580)
+[2019.01.05-06.07.48:719][197]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (576)
+[2019.01.05-06.07.48:719][197]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (574)
+[2019.01.05-06.07.48:719][197]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (572)
+[2019.01.05-06.07.48:719][197]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (570)
+[2019.01.05-06.07.48:719][197]LogModuleManager: Shutting down and abandoning module WebMMedia (568)
+[2019.01.05-06.07.48:719][197]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (566)
+[2019.01.05-06.07.48:719][197]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (564)
+[2019.01.05-06.07.48:719][197]LogModuleManager: Shutting down and abandoning module SequenceRecorder (563)
+[2019.01.05-06.07.48:719][197]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (560)
+[2019.01.05-06.07.48:719][197]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (558)
+[2019.01.05-06.07.48:719][197]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (556)
+[2019.01.05-06.07.48:719][197]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (554)
+[2019.01.05-06.07.48:719][197]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (552)
+[2019.01.05-06.07.48:719][197]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (550)
+[2019.01.05-06.07.48:719][197]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (548)
+[2019.01.05-06.07.48:719][197]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (546)
+[2019.01.05-06.07.48:719][197]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (544)
+[2019.01.05-06.07.48:720][197]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (542)
+[2019.01.05-06.07.48:720][197]LogModuleManager: Shutting down and abandoning module CharacterAI (540)
+[2019.01.05-06.07.48:720][197]LogModuleManager: Shutting down and abandoning module SmartSnapping (538)
+[2019.01.05-06.07.48:720][197]LogModuleManager: Shutting down and abandoning module SessionServices (536)
+[2019.01.05-06.07.48:720][197]LogModuleManager: Shutting down and abandoning module ViewportSnapping (534)
+[2019.01.05-06.07.48:720][197]LogModuleManager: Shutting down and abandoning module ViewportInteraction (532)
+[2019.01.05-06.07.48:720][197]LogModuleManager: Shutting down and abandoning module ClothPainter (530)
+[2019.01.05-06.07.48:720][197]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (529)
+[2019.01.05-06.07.48:720][197]LogModuleManager: Shutting down and abandoning module LogVisualizer (526)
+[2019.01.05-06.07.48:720][197]LogModuleManager: Shutting down and abandoning module IntroTutorials (524)
+[2019.01.05-06.07.48:720][197]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (523)
+[2019.01.05-06.07.48:720][197]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (520)
+[2019.01.05-06.07.48:720][197]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (518)
+[2019.01.05-06.07.48:720][197]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (516)
+[2019.01.05-06.07.48:720][197]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (514)
+[2019.01.05-06.07.48:720][197]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (513)
+[2019.01.05-06.07.49:450][197]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (510)
+[2019.01.05-06.07.49:450][197]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (508)
+[2019.01.05-06.07.49:450][197]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (506)
+[2019.01.05-06.07.49:450][197]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (504)
+[2019.01.05-06.07.49:450][197]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (502)
+[2019.01.05-06.07.49:450][197]LogModuleManager: Shutting down and abandoning module InputBindingEditor (500)
+[2019.01.05-06.07.49:450][197]LogModuleManager: Shutting down and abandoning module MergeActors (498)
+[2019.01.05-06.07.49:451][197]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (496)
+[2019.01.05-06.07.49:451][197]LogModuleManager: Shutting down and abandoning module LocalizationService (495)
+[2019.01.05-06.07.49:451][197]LogModuleManager: Shutting down and abandoning module HardwareTargeting (492)
+[2019.01.05-06.07.49:451][197]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (490)
+[2019.01.05-06.07.49:451][197]LogModuleManager: Shutting down and abandoning module UndoHistory (488)
+[2019.01.05-06.07.49:451][197]LogModuleManager: Shutting down and abandoning module XmlParser (486)
+[2019.01.05-06.07.49:451][197]LogModuleManager: Shutting down and abandoning module Blutility (484)
+[2019.01.05-06.07.49:451][197]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (482)
+[2019.01.05-06.07.49:451][197]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (481)
+[2019.01.05-06.07.49:451][197]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (478)
+[2019.01.05-06.07.49:451][197]LogModuleManager: Shutting down and abandoning module SettingsEditor (476)
+[2019.01.05-06.07.49:451][197]LogModuleManager: Shutting down and abandoning module ProjectLauncher (474)
+[2019.01.05-06.07.49:451][197]LogModuleManager: Shutting down and abandoning module SessionFrontend (472)
+[2019.01.05-06.07.49:451][197]LogModuleManager: Shutting down and abandoning module ProfilerClient (470)
+[2019.01.05-06.07.49:451][197]LogModuleManager: Shutting down and abandoning module DeviceManager (468)
+[2019.01.05-06.07.49:452][197]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (467)
+[2019.01.05-06.07.49:507][197]LogModuleManager: Shutting down and abandoning module AutomationController (464)
+[2019.01.05-06.07.49:507][197]LogModuleManager: Shutting down and abandoning module AutomationWindow (462)
+[2019.01.05-06.07.49:507][197]LogModuleManager: Shutting down and abandoning module Layers (460)
+[2019.01.05-06.07.49:507][197]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (458)
+[2019.01.05-06.07.49:507][197]LogModuleManager: Shutting down and abandoning module DetailCustomizations (456)
+[2019.01.05-06.07.49:507][197]LogModuleManager: Shutting down and abandoning module PackagesDialog (454)
+[2019.01.05-06.07.49:507][197]LogModuleManager: Shutting down and abandoning module Persona (452)
+[2019.01.05-06.07.49:507][197]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (451)
+[2019.01.05-06.07.49:507][197]LogModuleManager: Shutting down and abandoning module AnimGraph (449)
+[2019.01.05-06.07.49:507][197]LogModuleManager: Shutting down and abandoning module Kismet (446)
+[2019.01.05-06.07.49:511][197]LogModuleManager: Shutting down and abandoning module GraphEditor (444)
+[2019.01.05-06.07.49:511][197]LogModuleManager: Shutting down and abandoning module ClassViewer (442)
+[2019.01.05-06.07.49:511][197]LogModuleManager: Shutting down and abandoning module Toolbox (440)
+[2019.01.05-06.07.49:511][197]LogModuleManager: Shutting down and abandoning module ModuleUI (438)
+[2019.01.05-06.07.49:511][197]LogModuleManager: Shutting down and abandoning module MovieSceneTools (436)
+[2019.01.05-06.07.49:511][197]LogModuleManager: Shutting down and abandoning module OutputLog (434)
+[2019.01.05-06.07.49:511][197]LogModuleManager: Shutting down and abandoning module GammaUI (432)
+[2019.01.05-06.07.49:511][197]LogModuleManager: Shutting down and abandoning module Documentation (430)
+[2019.01.05-06.07.49:511][197]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (428)
+[2019.01.05-06.07.49:511][197]LogModuleManager: Shutting down and abandoning module MovieScene (426)
+[2019.01.05-06.07.49:511][197]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (424)
+[2019.01.05-06.07.49:511][197]LogModuleManager: Shutting down and abandoning module LauncherPlatform (422)
+[2019.01.05-06.07.49:511][197]LogModuleManager: Shutting down and abandoning module AnalyticsET (420)
+[2019.01.05-06.07.49:511][197]LogModuleManager: Shutting down and abandoning module PortalServices (418)
+[2019.01.05-06.07.49:511][197]LogModuleManager: Shutting down and abandoning module PortalRpc (416)
+[2019.01.05-06.07.49:511][197]LogModuleManager: Shutting down and abandoning module MessagingRpc (414)
+[2019.01.05-06.07.49:511][197]LogModuleManager: Shutting down and abandoning module AIModule (412)
+[2019.01.05-06.07.49:511][197]LogModuleManager: Shutting down and abandoning module GameplayDebugger (411)
+[2019.01.05-06.07.49:511][197]LogModuleManager: Shutting down and abandoning module AITestSuite (409)
+[2019.01.05-06.07.49:511][197]LogModuleManager: Shutting down and abandoning module NavigationSystem (407)
+[2019.01.05-06.07.49:511][197]LogModuleManager: Shutting down and abandoning module DesktopPlatform (404)
+[2019.01.05-06.07.49:511][197]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (402)
+[2019.01.05-06.07.49:514][197]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2019.01.05-06.07.49:659][197]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2019.01.05-06.07.49:659][197]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2019.01.05-06.07.49:659][197]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2019.01.05-06.07.49:659][197]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2019.01.05-06.07.49:659][197]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2019.01.05-06.07.49:659][197]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2019.01.05-06.07.49:659][197]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2019.01.05-06.07.49:659][197]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2019.01.05-06.07.49:659][197]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2019.01.05-06.07.49:659][197]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2019.01.05-06.07.49:659][197]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2019.01.05-06.07.49:659][197]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2019.01.05-06.07.49:659][197]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2019.01.05-06.07.49:659][197]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2019.01.05-06.07.49:660][197]LogModuleManager: Shutting down and abandoning module MediaCompositing (370)
+[2019.01.05-06.07.49:660][197]LogModuleManager: Shutting down and abandoning module LinearTimecode (368)
+[2019.01.05-06.07.49:660][197]LogModuleManager: Shutting down and abandoning module ImgMedia (366)
+[2019.01.05-06.07.49:663][197]LogModuleManager: Shutting down and abandoning module HTML5Networking (364)
+[2019.01.05-06.07.49:663][197]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (362)
+[2019.01.05-06.07.49:663][197]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (360)
+[2019.01.05-06.07.49:663][197]LogModuleManager: Shutting down and abandoning module BackChannel (358)
+[2019.01.05-06.07.49:663][197]LogModuleManager: Shutting down and abandoning module AppleVision (356)
+[2019.01.05-06.07.49:663][197]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (354)
+[2019.01.05-06.07.49:663][197]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2019.01.05-06.07.49:663][197]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2019.01.05-06.07.49:663][197]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2019.01.05-06.07.49:663][197]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2019.01.05-06.07.49:663][197]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2019.01.05-06.07.49:663][197]LogModuleManager: Shutting down and abandoning module VariantManagerContent (342)
+[2019.01.05-06.07.49:663][197]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (340)
+[2019.01.05-06.07.49:663][197]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2019.01.05-06.07.49:663][197]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2019.01.05-06.07.49:663][197]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2019.01.05-06.07.49:663][197]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2019.01.05-06.07.49:663][197]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2019.01.05-06.07.49:663][197]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.01.05-06.07.49:663][197]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.01.05-06.07.49:663][197]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.01.05-06.07.49:663][197]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.01.05-06.07.49:663][197]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.01.05-06.07.49:663][197]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.01.05-06.07.49:663][197]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.01.05-06.07.49:663][197]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.01.05-06.07.49:663][197]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.01.05-06.07.49:663][197]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.01.05-06.07.49:663][197]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (308)
+[2019.01.05-06.07.49:663][197]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (306)
+[2019.01.05-06.07.49:663][197]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (304)
+[2019.01.05-06.07.49:663][197]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (302)
+[2019.01.05-06.07.49:664][197]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (300)
+[2019.01.05-06.07.49:664][197]LogModuleManager: Shutting down and abandoning module Paper2DEditor (298)
+[2019.01.05-06.07.49:664][197]LogModuleManager: Shutting down and abandoning module MeshPaint (297)
+[2019.01.05-06.07.49:664][197]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (294)
+[2019.01.05-06.07.49:664][197]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (292)
+[2019.01.05-06.07.49:664][197]LogModuleManager: Shutting down and abandoning module PhysXVehicles (290)
+[2019.01.05-06.07.49:664][197]LogModuleManager: Shutting down and abandoning module OculusEditor (288)
+[2019.01.05-06.07.49:664][197]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2019.01.05-06.07.49:664][197]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.01.05-06.07.49:664][197]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.01.05-06.07.49:765][197]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.01.05-06.07.49:866][197]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2019.01.05-06.07.49:866][197]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2019.01.05-06.07.49:866][197]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2019.01.05-06.07.49:866][197]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2019.01.05-06.07.49:866][197]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2019.01.05-06.07.49:866][197]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2019.01.05-06.07.49:866][197]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2019.01.05-06.07.49:867][197]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2019.01.05-06.07.49:867][197]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2019.01.05-06.07.49:867][197]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2019.01.05-06.07.49:867][197]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2019.01.05-06.07.49:867][197]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2019.01.05-06.07.49:868][197]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2019.01.05-06.07.49:868][197]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.01.05-06.07.49:868][197]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2019.01.05-06.07.49:868][197]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2019.01.05-06.07.49:868][197]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2019.01.05-06.07.49:868][197]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (244)
+[2019.01.05-06.07.49:868][197]LogModuleManager: Shutting down and abandoning module WmfMedia (242)
+[2019.01.05-06.07.49:871][197]LogModuleManager: Shutting down and abandoning module Media (241)
+[2019.01.05-06.07.49:878][197]LogModuleManager: Shutting down and abandoning module PacketHandler (238)
+[2019.01.05-06.07.49:878][197]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (236)
+[2019.01.05-06.07.49:878][197]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (234)
+[2019.01.05-06.07.49:878][197]LogModuleManager: Shutting down and abandoning module MediaAssets (232)
+[2019.01.05-06.07.49:878][197]LogModuleManager: Shutting down and abandoning module Overlay (230)
+[2019.01.05-06.07.49:878][197]LogModuleManager: Shutting down and abandoning module OverlayEditor (229)
+[2019.01.05-06.07.49:878][197]LogModuleManager: Shutting down and abandoning module VREditor (226)
+[2019.01.05-06.07.49:878][197]LogModuleManager: Shutting down and abandoning module StringTableEditor (224)
+[2019.01.05-06.07.49:878][197]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (222)
+[2019.01.05-06.07.49:878][197]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (220)
+[2019.01.05-06.07.49:878][197]LogModuleManager: Shutting down and abandoning module FunctionalTesting (218)
+[2019.01.05-06.07.49:878][197]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (216)
+[2019.01.05-06.07.49:878][197]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (215)
+[2019.01.05-06.07.49:878][197]LogModuleManager: Shutting down and abandoning module UMG (212)
+[2019.01.05-06.07.49:878][197]LogModuleManager: Shutting down and abandoning module UMGEditor (211)
+[2019.01.05-06.07.49:878][197]LogModuleManager: Shutting down and abandoning module Sequencer (210)
+[2019.01.05-06.07.49:878][197]LogModuleManager: Shutting down and abandoning module MessageLog (207)
+[2019.01.05-06.07.49:878][197]LogModuleManager: Shutting down and abandoning module SlateReflector (202)
+[2019.01.05-06.07.49:879][197]LogModuleManager: Shutting down and abandoning module Slate (200)
+[2019.01.05-06.07.49:879][197]LogModuleManager: Shutting down and abandoning module EditorStyle (198)
+[2019.01.05-06.07.49:881][197]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2019.01.05-06.07.49:881][197]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2019.01.05-06.07.49:881][197]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2019.01.05-06.07.49:881][197]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2019.01.05-06.07.49:881][197]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2019.01.05-06.07.49:881][197]LogModuleManager: Shutting down and abandoning module Core (186)
+[2019.01.05-06.07.49:881][197]LogModuleManager: Shutting down and abandoning module LevelSequence (184)
+[2019.01.05-06.07.49:881][197]LogModuleManager: Shutting down and abandoning module KismetCompiler (182)
+[2019.01.05-06.07.49:881][197]LogModuleManager: Shutting down and abandoning module MeshUtilities (180)
+[2019.01.05-06.07.49:881][197]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (179)
+[2019.01.05-06.07.49:881][197]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (178)
+[2019.01.05-06.07.49:881][197]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (177)
+[2019.01.05-06.07.49:881][197]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (175)
+[2019.01.05-06.07.49:882][197]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (173)
+[2019.01.05-06.07.49:882][197]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (171)
+[2019.01.05-06.07.49:882][197]LogModuleManager: Shutting down and abandoning module MaterialBaking (167)
+[2019.01.05-06.07.49:882][197]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (163)
+[2019.01.05-06.07.49:882][197]LogModuleManager: Shutting down and abandoning module DerivedDataCache (160)
+[2019.01.05-06.07.49:893][197]LogDerivedDataCache: Shutdown
+[2019.01.05-06.07.49:893][197]LogModuleManager: Shutting down and abandoning module XGEController (158)
+[2019.01.05-06.07.49:893][197]LogModuleManager: Shutting down and abandoning module TargetPlatform (156)
+[2019.01.05-06.07.49:894][197]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (155)
+[2019.01.05-06.07.49:894][197]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (153)
+[2019.01.05-06.07.49:894][197]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (151)
+[2019.01.05-06.07.49:894][197]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (149)
+[2019.01.05-06.07.49:894][197]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (147)
+[2019.01.05-06.07.49:894][197]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (145)
+[2019.01.05-06.07.49:894][197]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (143)
+[2019.01.05-06.07.49:894][197]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (141)
+[2019.01.05-06.07.49:894][197]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (139)
+[2019.01.05-06.07.49:894][197]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (137)
+[2019.01.05-06.07.49:894][197]LogModuleManager: Shutting down and abandoning module ImageWrapper (136)
+[2019.01.05-06.07.49:894][197]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (133)
+[2019.01.05-06.07.49:894][197]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (131)
+[2019.01.05-06.07.49:894][197]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (129)
+[2019.01.05-06.07.49:894][197]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (127)
+[2019.01.05-06.07.49:894][197]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (125)
+[2019.01.05-06.07.49:895][197]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2019.01.05-06.07.49:895][197]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2019.01.05-06.07.49:895][197]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (119)
+[2019.01.05-06.07.49:895][197]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (117)
+[2019.01.05-06.07.49:895][197]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (115)
+[2019.01.05-06.07.49:896][197]LogModuleManager: Shutting down and abandoning module Messaging (113)
+[2019.01.05-06.07.49:896][197]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (111)
+[2019.01.05-06.07.49:897][197]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (109)
+[2019.01.05-06.07.49:898][197]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (107)
+[2019.01.05-06.07.49:909][197]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (105)
+[2019.01.05-06.07.49:909][197]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (103)
+[2019.01.05-06.07.49:909][197]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (101)
+[2019.01.05-06.07.49:909][197]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (99)
+[2019.01.05-06.07.49:909][197]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (97)
+[2019.01.05-06.07.49:909][197]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (95)
+[2019.01.05-06.07.49:910][197]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (93)
+[2019.01.05-06.07.49:910][197]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (91)
+[2019.01.05-06.07.49:910][197]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (89)
+[2019.01.05-06.07.49:910][197]LogModuleManager: Shutting down and abandoning module InputCore (86)
+[2019.01.05-06.07.49:910][197]LogModuleManager: Shutting down and abandoning module Settings (84)
+[2019.01.05-06.07.49:910][197]LogModuleManager: Shutting down and abandoning module PhysXCooking (82)
+[2019.01.05-06.07.49:910][197]LogModuleManager: Shutting down and abandoning module SteamVR (80)
+[2019.01.05-06.07.49:910][197]LogHMD: Freeing OpenVRDLLHandle.
+[2019.01.05-06.07.49:910][197]LogModuleManager: Shutting down and abandoning module OculusHMD (78)
+[2019.01.05-06.07.49:910][197]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (76)
+[2019.01.05-06.07.49:910][197]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2019.01.05-06.07.49:910][197]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (72)
+[2019.01.05-06.07.49:910][197]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (68)
+[2019.01.05-06.07.49:911][197]LogModuleManager: Shutting down and abandoning module XMPP (63)
+[2019.01.05-06.07.49:911][197]LogModuleManager: Shutting down and abandoning module WebSockets (62)
+[2019.01.05-06.07.49:930][197]LogModuleManager: Shutting down and abandoning module HTTP (59)
+[2019.01.05-06.07.49:930][197]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.01.05-06.07.49:930][197]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE1C34A36-4AB1-7B11-8E12-6CB8070EBC13%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.1-4613538%2B%2B%2BUE4%2BRelease-4.21&UserID=9643ed51403fc71de882dbb598a49e3c%7C6f8f76fec098401981480725ed91a318%7Cbd458f76-56fd-4f29-95e4-cbeabc4742ae&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.01.05-06.07.49:939][197]LogModuleManager: Shutting down and abandoning module SSL (58)
+[2019.01.05-06.07.49:940][197]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (54)
+[2019.01.05-06.07.49:940][197]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (52)
+[2019.01.05-06.07.49:940][197]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (50)
+[2019.01.05-06.07.49:940][197]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (48)
+[2019.01.05-06.07.49:940][197]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (46)
+[2019.01.05-06.07.49:940][197]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (44)
+[2019.01.05-06.07.49:940][197]LogModuleManager: Shutting down and abandoning module MagicLeapController (42)
+[2019.01.05-06.07.49:940][197]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.01.05-06.07.49:940][197]LogModuleManager: Shutting down and abandoning module MagicLeap (40)
+[2019.01.05-06.07.49:940][197]LogModuleManager: Shutting down and abandoning module DatasmithContent (38)
+[2019.01.05-06.07.49:941][197]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.01.05-06.07.49:941][197]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.01.05-06.07.49:941][197]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.01.05-06.07.49:941][197]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.01.05-06.07.49:941][197]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.01.05-06.07.49:941][197]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.01.05-06.07.49:941][197]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.01.05-06.07.49:942][197]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.01.05-06.07.49:942][197]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.01.05-06.07.49:942][197]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.01.05-06.07.49:942][197]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.01.05-06.07.49:942][197]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.01.05-06.07.49:942][197]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.01.05-06.07.49:942][197]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.01.05-06.07.49:942][197]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.01.05-06.07.49:942][197]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.01.05-06.07.49:942][197]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.01.05-06.07.49:942][197]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.01.05-06.07.49:954][197]LogExit: Exiting.
+[2019.01.05-06.07.49:992][197]Log file closed, 01/05/19 01:07:49
