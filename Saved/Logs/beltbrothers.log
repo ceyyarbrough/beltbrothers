@@ -742,3 +742,567 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.01.06-00.34.25:727][407]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
 [2019.01.06-00.34.25:759][407]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2019.01.06-00.34.25:794][410]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.01.06-00.38.37:024][382]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-00.39.23:685][953]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Chris Yarbrough\Documents\Unreal Projects\beltbrothers\source\character\png\Attack__002.png)
+[2019.01.06-00.39.23:692][953]LogTexture: Display: Building textures: Attack__002 (BGRA8, 536X495)
+[2019.01.06-00.39.23:758][953]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Chris Yarbrough\Documents\Unreal Projects\beltbrothers\source\character\png\Attack__003.png)
+[2019.01.06-00.39.23:764][953]LogTexture: Display: Building textures: Attack__003 (BGRA8, 536X495)
+[2019.01.06-00.39.23:838][953]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Chris Yarbrough\Documents\Unreal Projects\beltbrothers\source\character\png\Attack__004.png)
+[2019.01.06-00.39.23:844][953]LogTexture: Display: Building textures: Attack__004 (BGRA8, 536X495)
+[2019.01.06-00.39.23:914][953]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Chris Yarbrough\Documents\Unreal Projects\beltbrothers\source\character\png\Attack__005.png)
+[2019.01.06-00.39.23:922][953]LogTexture: Display: Building textures: Attack__005 (BGRA8, 536X495)
+[2019.01.06-00.39.23:994][953]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Chris Yarbrough\Documents\Unreal Projects\beltbrothers\source\character\png\Attack__006.png)
+[2019.01.06-00.39.24:000][953]LogTexture: Display: Building textures: Attack__006 (BGRA8, 536X495)
+[2019.01.06-00.39.24:071][953]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Chris Yarbrough\Documents\Unreal Projects\beltbrothers\source\character\png\Attack__007.png)
+[2019.01.06-00.39.24:078][953]LogTexture: Display: Building textures: Attack__007 (BGRA8, 536X495)
+[2019.01.06-00.39.24:151][953]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Chris Yarbrough\Documents\Unreal Projects\beltbrothers\source\character\png\Attack__008.png)
+[2019.01.06-00.39.24:157][953]LogTexture: Display: Building textures: Attack__008 (BGRA8, 536X495)
+[2019.01.06-00.39.24:229][953]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Chris Yarbrough\Documents\Unreal Projects\beltbrothers\source\character\png\Attack__009.png)
+[2019.01.06-00.39.24:235][953]LogTexture: Display: Building textures: Attack__009 (BGRA8, 536X495)
+[2019.01.06-00.39.24:306][953]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Chris Yarbrough\Documents\Unreal Projects\beltbrothers\source\character\png\Attack__000.png)
+[2019.01.06-00.39.24:312][953]LogTexture: Display: Building textures: Attack__000 (BGRA8, 536X495)
+[2019.01.06-00.39.24:371][953]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Chris Yarbrough\Documents\Unreal Projects\beltbrothers\source\character\png\Attack__001.png)
+[2019.01.06-00.39.24:378][953]LogTexture: Display: Building textures: Attack__001 (BGRA8, 536X495)
+[2019.01.06-00.39.44:862][ 47]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/AttackE7899495446599EA75DC46A3ACB6CF2E.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/flipbooks/Attack.uasset'
+[2019.01.06-00.40.09:465][567]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Chris Yarbrough\Documents\Unreal Projects\beltbrothers\source\character\png\Dead__001.png)
+[2019.01.06-00.40.09:471][567]LogTexture: Display: Building textures: Dead__001 (BGRA8, 482X498)
+[2019.01.06-00.40.09:543][567]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Chris Yarbrough\Documents\Unreal Projects\beltbrothers\source\character\png\Dead__002.png)
+[2019.01.06-00.40.09:548][567]LogTexture: Display: Building textures: Dead__002 (BGRA8, 482X498)
+[2019.01.06-00.40.09:619][567]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Chris Yarbrough\Documents\Unreal Projects\beltbrothers\source\character\png\Dead__003.png)
+[2019.01.06-00.40.09:624][567]LogTexture: Display: Building textures: Dead__003 (BGRA8, 482X498)
+[2019.01.06-00.40.09:697][567]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Chris Yarbrough\Documents\Unreal Projects\beltbrothers\source\character\png\Dead__004.png)
+[2019.01.06-00.40.09:702][567]LogTexture: Display: Building textures: Dead__004 (BGRA8, 482X498)
+[2019.01.06-00.40.09:772][567]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Chris Yarbrough\Documents\Unreal Projects\beltbrothers\source\character\png\Dead__005.png)
+[2019.01.06-00.40.09:778][567]LogTexture: Display: Building textures: Dead__005 (BGRA8, 482X498)
+[2019.01.06-00.40.09:849][567]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Chris Yarbrough\Documents\Unreal Projects\beltbrothers\source\character\png\Dead__006.png)
+[2019.01.06-00.40.09:855][567]LogTexture: Display: Building textures: Dead__006 (BGRA8, 482X498)
+[2019.01.06-00.40.09:925][567]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Chris Yarbrough\Documents\Unreal Projects\beltbrothers\source\character\png\Dead__007.png)
+[2019.01.06-00.40.09:931][567]LogTexture: Display: Building textures: Dead__007 (BGRA8, 482X498)
+[2019.01.06-00.40.10:001][567]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Chris Yarbrough\Documents\Unreal Projects\beltbrothers\source\character\png\Dead__008.png)
+[2019.01.06-00.40.10:006][567]LogTexture: Display: Building textures: Dead__008 (BGRA8, 482X498)
+[2019.01.06-00.40.10:076][567]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Chris Yarbrough\Documents\Unreal Projects\beltbrothers\source\character\png\Dead__009.png)
+[2019.01.06-00.40.10:082][567]LogTexture: Display: Building textures: Dead__009 (BGRA8, 482X498)
+[2019.01.06-00.40.10:152][567]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Chris Yarbrough\Documents\Unreal Projects\beltbrothers\source\character\png\Dead__000.png)
+[2019.01.06-00.40.10:158][567]LogTexture: Display: Building textures: Dead__000 (BGRA8, 482X498)
+[2019.01.06-00.40.27:934][331]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Dead0A4890264F1A2274AE81F5B4F081ACDC.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/flipbooks/Dead.uasset'
+[2019.01.06-00.40.29:709][484]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Dead__009_Sprite466228BD41B3069FB2949FB87FAD19A7.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/death/Dead__009_Sprite.uasset'
+[2019.01.06-00.40.29:846][484]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Dead__008_SpriteDF685EF74E97AD81C43470AA485D8263.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/death/Dead__008_Sprite.uasset'
+[2019.01.06-00.40.29:986][484]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Dead__007_Sprite8231E8B644C3CB14C60368AF5FC45E8D.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/death/Dead__007_Sprite.uasset'
+[2019.01.06-00.40.30:124][484]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Dead__006_SpriteE3A68B134C189A2261ED5A943D8AC22D.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/death/Dead__006_Sprite.uasset'
+[2019.01.06-00.40.30:253][484]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Dead__005_Sprite0A62F3B74F8757748910288E04E3C092.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/death/Dead__005_Sprite.uasset'
+[2019.01.06-00.40.30:393][484]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Dead__004_SpriteCE7B2A7144AE970EBD6F3E98F9F3639C.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/death/Dead__004_Sprite.uasset'
+[2019.01.06-00.40.30:532][484]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Dead__003_SpriteB3C35A744FAE96711023C68C72AEF2C6.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/death/Dead__003_Sprite.uasset'
+[2019.01.06-00.40.30:672][484]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Dead__002_Sprite616A035D4BEFA044085BC68903FC2568.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/death/Dead__002_Sprite.uasset'
+[2019.01.06-00.40.30:810][484]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Dead__001_Sprite74B7D1374D40B7A1916827ACE5A46B2D.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/death/Dead__001_Sprite.uasset'
+[2019.01.06-00.40.30:948][484]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Dead__000_Sprite0569B38643EA39578AF3ABB75B4E4047.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/death/Dead__000_Sprite.uasset'
+[2019.01.06-00.40.31:093][484]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Dead__000AD377499477D8BC32B9B6693A050CA77.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/death/Dead__000.uasset'
+[2019.01.06-00.40.31:249][484]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Dead__00967486AE64C1CAC0FDF972A84CEBAB322.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/death/Dead__009.uasset'
+[2019.01.06-00.40.31:395][484]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Dead__008148200E0464E2EBBC28A9898E7F3D79D.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/death/Dead__008.uasset'
+[2019.01.06-00.40.31:541][484]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Dead__007FE760D534812D6CACE64B3A7B0F1F0E3.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/death/Dead__007.uasset'
+[2019.01.06-00.40.31:687][484]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Dead__006CC95BCA04B46F612ACAC6FB8686DB3B6.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/death/Dead__006.uasset'
+[2019.01.06-00.40.31:836][484]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Dead__0056641890F465A11BA99000EA00E7E6AB0.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/death/Dead__005.uasset'
+[2019.01.06-00.40.31:993][484]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Dead__004703A1C684F20E69BF8F84C89C657A018.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/death/Dead__004.uasset'
+[2019.01.06-00.40.32:140][484]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Dead__003EDE1B0344FECB3E3D98B4FBEA14E765F.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/death/Dead__003.uasset'
+[2019.01.06-00.40.32:287][484]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Dead__0026CA1F7D74612C56B7B6084A262BC6068.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/death/Dead__002.uasset'
+[2019.01.06-00.40.32:442][484]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Dead__00124211DD242C75DA41A9CA190DB5DDE80.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/death/Dead__001.uasset'
+[2019.01.06-00.40.55:288][923]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Chris Yarbrough\Documents\Unreal Projects\beltbrothers\source\character\png\Climb_001.png)
+[2019.01.06-00.40.55:292][923]LogTexture: Display: Building textures: Climb_001 (BGRA8, 282X464)
+[2019.01.06-00.40.55:360][923]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Chris Yarbrough\Documents\Unreal Projects\beltbrothers\source\character\png\Climb_002.png)
+[2019.01.06-00.40.55:364][923]LogTexture: Display: Building textures: Climb_002 (BGRA8, 282X464)
+[2019.01.06-00.40.55:432][923]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Chris Yarbrough\Documents\Unreal Projects\beltbrothers\source\character\png\Climb_003.png)
+[2019.01.06-00.40.55:437][923]LogTexture: Display: Building textures: Climb_003 (BGRA8, 282X464)
+[2019.01.06-00.40.55:506][923]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Chris Yarbrough\Documents\Unreal Projects\beltbrothers\source\character\png\Climb_004.png)
+[2019.01.06-00.40.55:510][923]LogTexture: Display: Building textures: Climb_004 (BGRA8, 282X464)
+[2019.01.06-00.40.55:579][923]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Chris Yarbrough\Documents\Unreal Projects\beltbrothers\source\character\png\Climb_005.png)
+[2019.01.06-00.40.55:584][923]LogTexture: Display: Building textures: Climb_005 (BGRA8, 282X464)
+[2019.01.06-00.40.55:642][923]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Chris Yarbrough\Documents\Unreal Projects\beltbrothers\source\character\png\Climb_006.png)
+[2019.01.06-00.40.55:646][923]LogTexture: Display: Building textures: Climb_006 (BGRA8, 282X464)
+[2019.01.06-00.40.55:704][923]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Chris Yarbrough\Documents\Unreal Projects\beltbrothers\source\character\png\Climb_007.png)
+[2019.01.06-00.40.55:708][923]LogTexture: Display: Building textures: Climb_007 (BGRA8, 282X464)
+[2019.01.06-00.40.55:776][923]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Chris Yarbrough\Documents\Unreal Projects\beltbrothers\source\character\png\Climb_008.png)
+[2019.01.06-00.40.55:780][923]LogTexture: Display: Building textures: Climb_008 (BGRA8, 282X464)
+[2019.01.06-00.40.55:838][923]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Chris Yarbrough\Documents\Unreal Projects\beltbrothers\source\character\png\Climb_009.png)
+[2019.01.06-00.40.55:842][923]LogTexture: Display: Building textures: Climb_009 (BGRA8, 282X464)
+[2019.01.06-00.40.55:912][923]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Chris Yarbrough\Documents\Unreal Projects\beltbrothers\source\character\png\Climb_000.png)
+[2019.01.06-00.40.55:915][923]LogTexture: Display: Building textures: Climb_000 (BGRA8, 282X464)
+[2019.01.06-00.41.12:710][632]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Climb1AA041F74CCBE3F6E149889925E19D30.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/flipbooks/Climb.uasset'
+[2019.01.06-00.41.14:482][783]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Climb_009_SpriteE774F0EE4AE1C13994AD368C633D354A.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/climb/Climb_009_Sprite.uasset'
+[2019.01.06-00.41.14:613][783]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Climb_008_Sprite455DFA4241FEDC767195CB9DDC719098.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/climb/Climb_008_Sprite.uasset'
+[2019.01.06-00.41.14:752][783]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Climb_007_SpriteC9192591471A55021C0932BD6BB10BE3.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/climb/Climb_007_Sprite.uasset'
+[2019.01.06-00.41.14:892][783]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Climb_006_SpriteD39F2BEE41C27DEF69B0618BA12B9CFC.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/climb/Climb_006_Sprite.uasset'
+[2019.01.06-00.41.15:031][783]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Climb_005_SpriteE1B3937844B6E9CA22DEA98D151E9B6A.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/climb/Climb_005_Sprite.uasset'
+[2019.01.06-00.41.15:169][783]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Climb_004_Sprite08B73F684EFB9AB0461CF9AC25BC3535.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/climb/Climb_004_Sprite.uasset'
+[2019.01.06-00.41.15:307][783]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Climb_003_Sprite0C0134024F6C652D3D62039B1D0FDDBA.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/climb/Climb_003_Sprite.uasset'
+[2019.01.06-00.41.15:445][783]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Climb_002_Sprite9EAAA6CC444B458505FA32B76251A3AB.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/climb/Climb_002_Sprite.uasset'
+[2019.01.06-00.41.15:603][783]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Climb_001_Sprite34B0BACB4F897E45F67388A784406248.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/climb/Climb_001_Sprite.uasset'
+[2019.01.06-00.41.15:742][783]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Climb_000_Sprite37B07B1B4141B24F0821C4B399C2465B.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/climb/Climb_000_Sprite.uasset'
+[2019.01.06-00.41.15:881][783]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Climb_000806054644547B808E31D87A875783DDA.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/climb/Climb_000.uasset'
+[2019.01.06-00.41.16:022][783]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Climb_009DE6A98C141BBA0256E02F7959A039245.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/climb/Climb_009.uasset'
+[2019.01.06-00.41.16:162][783]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Climb_00833A33D4E4A8BDE98CB4DCAA6FA4A853D.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/climb/Climb_008.uasset'
+[2019.01.06-00.41.16:303][783]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Climb_00722567D8E4212F0D40445689661AEE3B2.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/climb/Climb_007.uasset'
+[2019.01.06-00.41.16:445][783]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Climb_006E159F27C49F0C7D72867819BD1DCF975.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/climb/Climb_006.uasset'
+[2019.01.06-00.41.16:586][783]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Climb_0052B1F919E470781BAB623D486889EC23F.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/climb/Climb_005.uasset'
+[2019.01.06-00.41.16:728][783]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Climb_004891A3D394B6D12E849D48FB940BF04A1.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/climb/Climb_004.uasset'
+[2019.01.06-00.41.16:871][783]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Climb_00303C3A8024909982C7B3C43993182BA56.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/climb/Climb_003.uasset'
+[2019.01.06-00.41.17:022][783]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Climb_00275B0A4C3494436F198C94785EB18C57D.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/climb/Climb_002.uasset'
+[2019.01.06-00.41.17:162][783]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Climb_00190BD1CEF4FE74E7C9061F088DCE8C3F4.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/climb/Climb_001.uasset'
+[2019.01.06-00.41.56:362][435]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to STreeView< TSharedPtr<FTreeItem> > [SPathView.cpp(100)].
+[2019.01.06-00.41.56:406][435]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.030
+[2019.01.06-00.41.56:408][435]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/animations/sprites/attack/Attack__002] ([1] browsable assets)...
+[2019.01.06-00.41.56:412][435]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Character/animations/sprites/attack/Attack__002.Attack__002]
+[2019.01.06-00.41.56:412][435]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/animations/sprites/attack/Attack__002]
+[2019.01.06-00.41.56:429][435]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Attack__002_Auto235814B35418BF299F55E678D175D7619.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Autosaves/Game/Character/animations/sprites/attack/Attack__002_Auto2.uasset'
+[2019.01.06-00.41.56:430][435]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/animations/sprites/attack/Attack__003] ([1] browsable assets)...
+[2019.01.06-00.41.56:434][435]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Character/animations/sprites/attack/Attack__003.Attack__003]
+[2019.01.06-00.41.56:434][435]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/animations/sprites/attack/Attack__003]
+[2019.01.06-00.41.56:444][435]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Attack__003_Auto2689E830C467B399FDB2888B8011C348A.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Autosaves/Game/Character/animations/sprites/attack/Attack__003_Auto2.uasset'
+[2019.01.06-00.41.56:447][435]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/animations/sprites/attack/Attack__004] ([1] browsable assets)...
+[2019.01.06-00.41.56:451][435]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Character/animations/sprites/attack/Attack__004.Attack__004]
+[2019.01.06-00.41.56:451][435]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/animations/sprites/attack/Attack__004]
+[2019.01.06-00.41.56:461][435]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Attack__004_Auto205E3EF5F4C76313C987FC09CC3240D31.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Autosaves/Game/Character/animations/sprites/attack/Attack__004_Auto2.uasset'
+[2019.01.06-00.41.56:462][435]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/animations/sprites/attack/Attack__005] ([1] browsable assets)...
+[2019.01.06-00.41.56:467][435]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Character/animations/sprites/attack/Attack__005.Attack__005]
+[2019.01.06-00.41.56:467][435]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/animations/sprites/attack/Attack__005]
+[2019.01.06-00.41.56:479][435]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Attack__005_Auto254A6CAAD4C5493AB1AFFD1ADCFE5F791.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Autosaves/Game/Character/animations/sprites/attack/Attack__005_Auto2.uasset'
+[2019.01.06-00.41.56:480][435]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/animations/sprites/attack/Attack__006] ([1] browsable assets)...
+[2019.01.06-00.41.56:484][435]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Character/animations/sprites/attack/Attack__006.Attack__006]
+[2019.01.06-00.41.56:484][435]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/animations/sprites/attack/Attack__006]
+[2019.01.06-00.41.56:494][435]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Attack__006_Auto2B4AB7320416BDD63C1B2BC8983C05011.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Autosaves/Game/Character/animations/sprites/attack/Attack__006_Auto2.uasset'
+[2019.01.06-00.41.56:496][435]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/animations/sprites/attack/Attack__007] ([1] browsable assets)...
+[2019.01.06-00.41.56:500][435]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Character/animations/sprites/attack/Attack__007.Attack__007]
+[2019.01.06-00.41.56:500][435]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/animations/sprites/attack/Attack__007]
+[2019.01.06-00.41.56:510][435]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Attack__007_Auto254CFAB0B4170971B3184C2A6BCA6B90C.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Autosaves/Game/Character/animations/sprites/attack/Attack__007_Auto2.uasset'
+[2019.01.06-00.41.56:511][435]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/animations/sprites/attack/Attack__008] ([1] browsable assets)...
+[2019.01.06-00.41.56:515][435]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Character/animations/sprites/attack/Attack__008.Attack__008]
+[2019.01.06-00.41.56:516][435]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/animations/sprites/attack/Attack__008]
+[2019.01.06-00.41.56:526][435]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Attack__008_Auto2109650694EA2D57AA0C41B9CE65A6403.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Autosaves/Game/Character/animations/sprites/attack/Attack__008_Auto2.uasset'
+[2019.01.06-00.41.56:527][435]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/animations/sprites/attack/Attack__009] ([1] browsable assets)...
+[2019.01.06-00.41.56:531][435]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Character/animations/sprites/attack/Attack__009.Attack__009]
+[2019.01.06-00.41.56:531][435]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/animations/sprites/attack/Attack__009]
+[2019.01.06-00.41.56:542][435]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Attack__009_Auto2D26BA84A4CEAEAD919C718981FC0ACDB.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Autosaves/Game/Character/animations/sprites/attack/Attack__009_Auto2.uasset'
+[2019.01.06-00.41.56:543][435]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/animations/sprites/attack/Attack__000] ([1] browsable assets)...
+[2019.01.06-00.41.56:547][435]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Character/animations/sprites/attack/Attack__000.Attack__000]
+[2019.01.06-00.41.56:547][435]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/animations/sprites/attack/Attack__000]
+[2019.01.06-00.41.56:557][435]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Attack__000_Auto2374AD3B34D9302CE65E385B98658BCEE.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Autosaves/Game/Character/animations/sprites/attack/Attack__000_Auto2.uasset'
+[2019.01.06-00.41.56:559][435]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/animations/sprites/attack/Attack__001] ([1] browsable assets)...
+[2019.01.06-00.41.56:562][435]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Character/animations/sprites/attack/Attack__001.Attack__001]
+[2019.01.06-00.41.56:562][435]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/animations/sprites/attack/Attack__001]
+[2019.01.06-00.41.56:572][435]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Attack__001_Auto297B65DD241D54A17AE192DA517D32892.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Autosaves/Game/Character/animations/sprites/attack/Attack__001_Auto2.uasset'
+[2019.01.06-00.41.56:574][435]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/animations/sprites/attack/Attack__000_Sprite] ([1] browsable assets)...
+[2019.01.06-00.41.56:581][435]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Character/animations/sprites/attack/Attack__000_Sprite.Attack__000_Sprite]
+[2019.01.06-00.41.56:581][435]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/animations/sprites/attack/Attack__000_Sprite]
+[2019.01.06-00.41.56:593][435]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Attack__000_Sprite_Auto24E18C0EF4228169DB5961889B0E8A84C.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Autosaves/Game/Character/animations/sprites/attack/Attack__000_Sprite_Auto2.uasset'
+[2019.01.06-00.41.56:594][435]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/animations/sprites/attack/Attack__001_Sprite] ([1] browsable assets)...
+[2019.01.06-00.41.56:602][435]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Character/animations/sprites/attack/Attack__001_Sprite.Attack__001_Sprite]
+[2019.01.06-00.41.56:602][435]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/animations/sprites/attack/Attack__001_Sprite]
+[2019.01.06-00.41.56:615][435]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Attack__001_Sprite_Auto2E238700D4D974330FD5E3B926A4D7EA3.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Autosaves/Game/Character/animations/sprites/attack/Attack__001_Sprite_Auto2.uasset'
+[2019.01.06-00.41.56:617][435]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/animations/sprites/attack/Attack__002_Sprite] ([1] browsable assets)...
+[2019.01.06-00.41.56:624][435]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Character/animations/sprites/attack/Attack__002_Sprite.Attack__002_Sprite]
+[2019.01.06-00.41.56:624][435]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/animations/sprites/attack/Attack__002_Sprite]
+[2019.01.06-00.41.56:635][435]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Attack__002_Sprite_Auto2D69CAF2641276AE7BAFF79B18D1B01AC.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Autosaves/Game/Character/animations/sprites/attack/Attack__002_Sprite_Auto2.uasset'
+[2019.01.06-00.41.56:637][435]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/animations/sprites/attack/Attack__003_Sprite] ([1] browsable assets)...
+[2019.01.06-00.41.56:643][435]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Character/animations/sprites/attack/Attack__003_Sprite.Attack__003_Sprite]
+[2019.01.06-00.41.56:643][435]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/animations/sprites/attack/Attack__003_Sprite]
+[2019.01.06-00.41.56:657][435]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Attack__003_Sprite_Auto24A65731641D7C9B30682BDB0C98872C0.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Autosaves/Game/Character/animations/sprites/attack/Attack__003_Sprite_Auto2.uasset'
+[2019.01.06-00.41.56:658][435]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/animations/sprites/attack/Attack__004_Sprite] ([1] browsable assets)...
+[2019.01.06-00.41.56:664][435]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Character/animations/sprites/attack/Attack__004_Sprite.Attack__004_Sprite]
+[2019.01.06-00.41.56:664][435]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/animations/sprites/attack/Attack__004_Sprite]
+[2019.01.06-00.41.56:676][435]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Attack__004_Sprite_Auto2D50B803A438A0DF0B84018A1C317A434.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Autosaves/Game/Character/animations/sprites/attack/Attack__004_Sprite_Auto2.uasset'
+[2019.01.06-00.41.56:677][435]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/animations/sprites/attack/Attack__005_Sprite] ([1] browsable assets)...
+[2019.01.06-00.41.56:683][435]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Character/animations/sprites/attack/Attack__005_Sprite.Attack__005_Sprite]
+[2019.01.06-00.41.56:683][435]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/animations/sprites/attack/Attack__005_Sprite]
+[2019.01.06-00.41.56:694][435]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Attack__005_Sprite_Auto20809C5FD4A63B3CA0121029C57D2A552.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Autosaves/Game/Character/animations/sprites/attack/Attack__005_Sprite_Auto2.uasset'
+[2019.01.06-00.41.56:696][435]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/animations/sprites/attack/Attack__006_Sprite] ([1] browsable assets)...
+[2019.01.06-00.41.56:702][435]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Character/animations/sprites/attack/Attack__006_Sprite.Attack__006_Sprite]
+[2019.01.06-00.41.56:702][435]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/animations/sprites/attack/Attack__006_Sprite]
+[2019.01.06-00.41.56:713][435]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Attack__006_Sprite_Auto274571E914B521FC337D21081CE770265.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Autosaves/Game/Character/animations/sprites/attack/Attack__006_Sprite_Auto2.uasset'
+[2019.01.06-00.41.56:714][435]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/animations/sprites/attack/Attack__007_Sprite] ([1] browsable assets)...
+[2019.01.06-00.41.56:720][435]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Character/animations/sprites/attack/Attack__007_Sprite.Attack__007_Sprite]
+[2019.01.06-00.41.56:720][435]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/animations/sprites/attack/Attack__007_Sprite]
+[2019.01.06-00.41.56:732][435]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Attack__007_Sprite_Auto2A13A42244A51375EA31F89B7B4296EB3.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Autosaves/Game/Character/animations/sprites/attack/Attack__007_Sprite_Auto2.uasset'
+[2019.01.06-00.41.56:733][435]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/animations/sprites/attack/Attack__008_Sprite] ([1] browsable assets)...
+[2019.01.06-00.41.56:739][435]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Character/animations/sprites/attack/Attack__008_Sprite.Attack__008_Sprite]
+[2019.01.06-00.41.56:739][435]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/animations/sprites/attack/Attack__008_Sprite]
+[2019.01.06-00.41.56:751][435]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Attack__008_Sprite_Auto23E7EA2DC4EAEBF19CCA251A717F8BF23.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Autosaves/Game/Character/animations/sprites/attack/Attack__008_Sprite_Auto2.uasset'
+[2019.01.06-00.41.56:752][435]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/animations/sprites/attack/Attack__009_Sprite] ([1] browsable assets)...
+[2019.01.06-00.41.56:759][435]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Character/animations/sprites/attack/Attack__009_Sprite.Attack__009_Sprite]
+[2019.01.06-00.41.56:759][435]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/animations/sprites/attack/Attack__009_Sprite]
+[2019.01.06-00.41.56:771][435]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Attack__009_Sprite_Auto2CBD29A0A4012CA61833021BFA3333A60.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Autosaves/Game/Character/animations/sprites/attack/Attack__009_Sprite_Auto2.uasset'
+[2019.01.06-00.41.56:772][435]LogFileHelpers: Auto-saving content packages took 0.364
+[2019.01.06-00.43.01:445][370]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.01.06-00.43.01:540][371]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.beltbrothers
+[2019.01.06-00.43.01:541][371]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.21\Engine\Binaries\DotNET\IOS
+[2019.01.06-00.43.01:541][371]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.21
+[2019.01.06-00.43.01:541][371]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.21\Engine\Binaries\DotNET\IOS
+[2019.01.06-00.43.01:541][371]LogTemp: BranchPath = DESKTOP-8LLUI4T/C/Program Files/Epic Games/UE_4.21/Engine/Binaries --- GameBranchPath = DESKTOP-8LLUI4T/C/Program Files/Epic Games/UE_4.21/Engine/Binaries
+[2019.01.06-00.43.01:541][371]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Chris Yarbrough\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2019.01.06-00.44.05:650][965]LogSlate: Window 'Project Settings' being destroyed
+[2019.01.06-00.44.05:653][965]LogSlate: Window 'Project Settings' being destroyed
+[2019.01.06-00.44.11:599][643]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/2DSideScrollerExampleMap3839A89B47D54240DE15AA9DA1AA9FAA.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2019.01.06-00.44.11:704][643]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/2DSideScrollerExampleMap_BuiltDaCB96A1654EFD956356ED4FB3D04F06B2.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset'
+[2019.01.06-00.44.23:109][  9]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Character/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2019.01.06-00.47.16:689][262]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2019.01.06-00.47.17:790][336]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/2DSideScrollerCharacter35AC1D1141B366860830069A5CA45D80.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/2DSideScrollerCharacter.uasset'
+[2019.01.06-00.49.54:817][132]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2019.01.06-00.49.56:003][216]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/2DSideScrollerCharacter2E6763F24C3B7932A63BE6A6D18E9198.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/2DSideScrollerCharacter.uasset'
+[2019.01.06-00.50.50:789][977]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2019.01.06-00.50.51:663][ 29]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/2DSideScrollerCharacterF0710ADA443CD211B178D1A9E9A04E17.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/2DSideScrollerCharacter.uasset'
+[2019.01.06-00.51.17:411][696]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2019.01.06-00.51.18:195][734]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/2DSideScrollerCharacter173282EB4E0764B0727FF8A9ECBD402B.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/2DSideScrollerCharacter.uasset'
+[2019.01.06-00.51.27:324][668]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.06-00.51.27:348][668]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.01.06-00.51.27:348][668]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.06-00.51.27:349][668]PIE: New page: PIE session: 2DSideScrollerExampleMap (Jan 5, 2019, 2:51:27 PM)
+[2019.01.06-00.51.27:349][668]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2019.01.06-00.51.27:353][668]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004145s)
+[2019.01.06-00.51.27:354][668]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2019.01.06-00.51.27:354][668]LogPlayLevel: PIE: World Init took: (0.000718s)
+[2019.01.06-00.51.27:354][668]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.005023s)
+[2019.01.06-00.51.27:413][668]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.06-00.51.27:424][668]LogInit: FAudioDevice initialized.
+[2019.01.06-00.51.27:455][668]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.01.06-00.51.27:456][668]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2019.01.05-19.51.27
+[2019.01.06-00.51.27:456][668]LogWorld: Bringing up level for play took: 0.000921
+[2019.01.06-00.51.27:469][668]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap 0.819
+[2019.01.06-00.51.27:469][668]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.01.06-00.51.52:149][629]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.01.06-00.51.52:149][629]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.06-00.51.52:185][629]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.06-00.51.52:186][629]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.01.06-00.51.52:220][629]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.06-00.51.52:247][630]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.06-00.51.52:264][630]LogSlate: Took 0.005996 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2019.01.06-00.51.52:270][631]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.01.06-00.52.53:266][610]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2019.01.06-00.52.55:613][811]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/2DSideScrollerCharacter097B77434F7181573B554E945B75E562.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/2DSideScrollerCharacter.uasset'
+[2019.01.06-00.52.58:484][133]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.06-00.52.58:508][133]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.01.06-00.52.58:508][133]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.06-00.52.58:508][133]PIE: New page: PIE session: 2DSideScrollerExampleMap (Jan 5, 2019, 2:52:58 PM)
+[2019.01.06-00.52.58:508][133]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2019.01.06-00.52.58:511][133]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003223s)
+[2019.01.06-00.52.58:511][133]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2019.01.06-00.52.58:511][133]LogPlayLevel: PIE: World Init took: (0.000508s)
+[2019.01.06-00.52.58:511][133]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.003879s)
+[2019.01.06-00.52.58:572][133]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.06-00.52.58:582][133]LogInit: FAudioDevice initialized.
+[2019.01.06-00.52.58:613][133]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.01.06-00.52.58:615][133]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2019.01.05-19.52.58
+[2019.01.06-00.52.58:615][133]LogWorld: Bringing up level for play took: 0.001053
+[2019.01.06-00.52.58:628][133]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap -0.022
+[2019.01.06-00.52.58:629][133]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.01.06-00.53.02:168][557]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.01.06-00.53.02:169][557]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.06-00.53.02:207][557]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.06-00.53.02:208][557]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.01.06-00.53.02:245][557]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.06-00.53.02:273][559]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.01.06-00.53.24:740][493]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.06-00.54.19:377][ 97]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2019.01.06-00.54.21:912][302]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/2DSideScrollerCharacter69F43DAA4ABF1EFF4DDB2C87276CD2F1.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/2DSideScrollerCharacter.uasset'
+[2019.01.06-00.54.40:805][ 40]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.06-00.54.40:833][ 40]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.01.06-00.54.40:833][ 40]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.06-00.54.40:833][ 40]PIE: New page: PIE session: 2DSideScrollerExampleMap (Jan 5, 2019, 2:54:40 PM)
+[2019.01.06-00.54.40:833][ 40]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2019.01.06-00.54.40:836][ 40]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002791s)
+[2019.01.06-00.54.40:836][ 40]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2019.01.06-00.54.40:836][ 40]LogPlayLevel: PIE: World Init took: (0.000479s)
+[2019.01.06-00.54.40:836][ 40]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.003375s)
+[2019.01.06-00.54.40:895][ 40]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.06-00.54.40:905][ 40]LogInit: FAudioDevice initialized.
+[2019.01.06-00.54.40:939][ 40]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.01.06-00.54.40:939][ 40]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2019.01.05-19.54.40
+[2019.01.06-00.54.40:939][ 40]LogWorld: Bringing up level for play took: 0.000955
+[2019.01.06-00.54.40:953][ 40]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap 0.303
+[2019.01.06-00.54.40:953][ 40]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.01.06-00.54.47:285][796]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.06-00.54.49:711][ 87]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.06-00.54.54:950][587]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.01.06-00.54.55:027][588]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.beltbrothers
+[2019.01.06-00.54.55:027][588]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.21\Engine\Binaries\DotNET\IOS
+[2019.01.06-00.54.55:027][588]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.21
+[2019.01.06-00.54.55:027][588]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.21\Engine\Binaries\DotNET\IOS
+[2019.01.06-00.54.55:027][588]LogTemp: BranchPath = DESKTOP-8LLUI4T/C/Program Files/Epic Games/UE_4.21/Engine/Binaries --- GameBranchPath = DESKTOP-8LLUI4T/C/Program Files/Epic Games/UE_4.21/Engine/Binaries
+[2019.01.06-00.54.55:027][588]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Chris Yarbrough\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2019.01.06-00.55.14:993][949]LogSlate: Window 'Project Settings' being destroyed
+[2019.01.06-00.55.14:997][949]LogSlate: Window 'Project Settings' being destroyed
+[2019.01.06-00.55.16:944][146]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/2DSideScrollerExampleMap42C363EA4FF4AEAAE270D093EC36CDB7.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2019.01.06-00.55.17:034][146]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/2DSideScrollerExampleMap_BuiltDaB6E770124733CD4122FCCA845154D60E.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset'
+[2019.01.06-00.55.24:159][  0]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.01.06-00.55.24:160][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.06-00.55.24:195][  0]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.06-00.55.24:195][  0]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.01.06-00.55.24:231][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.06-00.55.24:262][  2]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.01.06-00.55.26:988][329]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-00.55.27:046][336]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.06-00.55.27:060][336]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.01.06-00.55.27:060][336]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.06-00.55.27:060][336]PIE: New page: PIE session: 2DSideScrollerExampleMap (Jan 5, 2019, 2:55:27 PM)
+[2019.01.06-00.55.27:060][336]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2019.01.06-00.55.27:063][336]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002927s)
+[2019.01.06-00.55.27:063][336]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2019.01.06-00.55.27:063][336]LogPlayLevel: PIE: World Init took: (0.000475s)
+[2019.01.06-00.55.27:064][336]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.003508s)
+[2019.01.06-00.55.27:122][336]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.06-00.55.27:132][336]LogInit: FAudioDevice initialized.
+[2019.01.06-00.55.27:166][336]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.01.06-00.55.27:167][336]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2019.01.05-19.55.27
+[2019.01.06-00.55.27:167][336]LogWorld: Bringing up level for play took: 0.000890
+[2019.01.06-00.55.27:180][336]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap 0.53
+[2019.01.06-00.55.27:180][336]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.01.06-00.55.28:143][451]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.01.06-00.55.28:143][451]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.06-00.55.28:175][451]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.06-00.55.28:176][451]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.01.06-00.55.28:207][451]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.06-00.55.28:245][455]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.01.06-00.55.30:924][776]MapCheck: New page: Map Check
+[2019.01.06-00.55.30:938][776]Cmd: MAP REBUILD ALLVISIBLE
+[2019.01.06-00.55.30:939][776]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.01.06-00.55.31:006][776]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MaskedUnlitSpriteMaterial, compiling. 
+[2019.01.06-00.55.31:020][776]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy DefaultTextMaterialOpaque, compiling. 
+[2019.01.06-00.55.31:027][776]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.06-00.55.31:028][776]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MatineeCam_mat, compiling. 
+[2019.01.06-00.55.31:418][776]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.06-00.55.31:418][776]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.06-00.55.31:418][776]TextureStreamingBuild: Display: Compiling optional shaders took 0.421 seconds.
+[2019.01.06-00.55.31:432][776]LogLevel: Display: Export Material TexCoord Scales took 0.014 seconds.
+[2019.01.06-00.55.31:443][776]TextureStreamingBuild: Display: Build Texture Streaming took 0.010 seconds.
+[2019.01.06-00.55.31:475][776]LightingResults: New page: Lighting Build - Jan 5, 2019, 2:55:31 PM
+[2019.01.06-00.55.31:509][776]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.01.06-00.55.31:575][776]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.01.06-00.55.31:586][776]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.01.06-00.55.32:104][776]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.01.06-00.55.32:104][776]LogSwarmInterface: [TryOpenConnection] Local Process ID is 10176
+[2019.01.06-00.55.34:484][776]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2019.01.06-00.55.34:484][776]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.01.06-00.55.34:484][776]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.01.06-00.55.34:484][776]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.01.06-00.55.34:485][776]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.01.06-00.55.34:485][776]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.01.06-00.55.34:583][776]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.01.06-00.55.34:583][776]MapCheck: New page: 2DSideScrollerExampleMap - Jan 5, 2019, 2:55:34 PM
+[2019.01.06-00.55.34:585][776]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.351ms to complete.
+[2019.01.06-00.55.34:607][776]LogEditorBuildUtils: Build time 0:03
+[2019.01.06-00.55.34:625][776]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2019.01.06-00.55.34:638][776]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2019.01.06-00.55.34:656][777]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.06-00.55.34:656][777]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.06-00.55.38:012][786]Job is a success!
+[2019.01.06-00.55.38:388][787]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.014s
+[2019.01.06-00.55.38:388][787]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.01.06-00.55.38:388][787]LogVolumetricLightmapImport:      BrickData 5x5x5 = 0.0Mb
+[2019.01.06-00.55.38:388][787]LogVolumetricLightmapImport:      Bricks at Level
+[2019.01.06-00.55.38:388][787]LogVolumetricLightmapImport:          0: 100.0% covering 100.0% of volume
+[2019.01.06-00.55.38:388][787]LogVolumetricLightmapImport:          1: 0.0% covering 0.0% of volume
+[2019.01.06-00.55.38:388][787]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2019.01.06-00.55.38:428][787]Lightmass on DESKTOP-8LLUI4T: 1.83 sec total, 118 ms importing, 22 ms setup, 703 ms photons, 950 ms processing, 0 ms extra exporting [0/0 mappings]. Threads: 9.95 sec total, 0 ms processing.
+[2019.01.06-00.55.38:471][787]LogStaticLightingSystem: Illumination: 6.65 sec (0 ms encoding lightmaps, 0 ms encoding shadowmaps)
+[2019.01.06-00.55.38:471][787]LogStaticLightingSystem: Lightmap texture memory:  0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2019.01.06-00.55.38:471][787]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2019.01.06-00.55.38:497][787]DumpUnbuiltLightIteractions
+[2019.01.06-00.55.38:497][787]Lights with unbuilt interactions: 0
+[2019.01.06-00.55.38:498][787]
+[2019.01.06-00.55.38:498][787]Primitives with unbuilt interactions: 0
+[2019.01.06-00.55.38:507][788]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.01.06-00.55.38:507][788]MapCheck: New page: 2DSideScrollerExampleMap - Jan 5, 2019, 2:55:38 PM
+[2019.01.06-00.55.38:508][788]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.669ms to complete.
+[2019.01.06-00.55.50:081][822]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.06-00.55.50:095][822]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.01.06-00.55.50:095][822]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.06-00.55.50:095][822]PIE: New page: PIE session: 2DSideScrollerExampleMap (Jan 5, 2019, 2:55:50 PM)
+[2019.01.06-00.55.50:095][822]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2019.01.06-00.55.50:098][822]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002875s)
+[2019.01.06-00.55.50:099][822]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2019.01.06-00.55.50:099][822]LogPlayLevel: PIE: World Init took: (0.000489s)
+[2019.01.06-00.55.50:099][822]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.003480s)
+[2019.01.06-00.55.50:164][822]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.06-00.55.50:174][822]LogInit: FAudioDevice initialized.
+[2019.01.06-00.55.50:209][822]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.01.06-00.55.50:210][822]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2019.01.05-19.55.50
+[2019.01.06-00.55.50:210][822]LogWorld: Bringing up level for play took: 0.001000
+[2019.01.06-00.55.50:222][822]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap -0.427
+[2019.01.06-00.55.50:223][822]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.01.06-00.56.13:208][580]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.01.06-00.56.13:208][580]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.06-00.56.13:246][580]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.06-00.56.13:247][580]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.01.06-00.56.13:281][580]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.06-00.56.13:312][582]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.01.06-00.56.19:297][299]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.06-00.57.01:145][870]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2019.01.06-00.57.01:978][924]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.06-00.57.02:030][924]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/2DSideScrollerCharacter20008A4B411441B845A14EA33C6AD597.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/2DSideScrollerCharacter.uasset'
+[2019.01.06-00.57.03:651][ 95]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-00.57.04:624][211]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-00.57.04:682][218]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.06-00.57.04:705][218]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.01.06-00.57.04:706][218]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.06-00.57.04:706][218]PIE: New page: PIE session: 2DSideScrollerExampleMap (Jan 5, 2019, 2:57:04 PM)
+[2019.01.06-00.57.04:706][218]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2019.01.06-00.57.04:709][218]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002926s)
+[2019.01.06-00.57.04:709][218]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2019.01.06-00.57.04:709][218]LogPlayLevel: PIE: World Init took: (0.000482s)
+[2019.01.06-00.57.04:709][218]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.003518s)
+[2019.01.06-00.57.04:769][218]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.06-00.57.04:780][218]LogInit: FAudioDevice initialized.
+[2019.01.06-00.57.04:813][218]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.01.06-00.57.04:814][218]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2019.01.05-19.57.04
+[2019.01.06-00.57.04:814][218]LogWorld: Bringing up level for play took: 0.000964
+[2019.01.06-00.57.04:827][218]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap 0.177
+[2019.01.06-00.57.04:827][218]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.01.06-00.58.04:036][319]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.01.06-00.58.04:036][319]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.06-00.58.04:072][319]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.06-00.58.04:072][319]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.01.06-00.58.04:110][319]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.06-00.58.04:140][321]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.01.06-00.58.47:422][548]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-00.59.09:497][832]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2019.01.06-00.59.10:177][869]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.06-00.59.10:237][869]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/2DSideScrollerCharacter40292D72496866D002A7F7921EB306AF.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/2DSideScrollerCharacter.uasset'
+[2019.01.06-00.59.11:238][978]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-00.59.12:892][176]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-00.59.12:933][181]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.06-00.59.12:960][181]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.01.06-00.59.12:960][181]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.06-00.59.12:960][181]PIE: New page: PIE session: 2DSideScrollerExampleMap (Jan 5, 2019, 2:59:12 PM)
+[2019.01.06-00.59.12:960][181]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2019.01.06-00.59.12:963][181]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003084s)
+[2019.01.06-00.59.12:964][181]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2019.01.06-00.59.12:964][181]LogPlayLevel: PIE: World Init took: (0.000517s)
+[2019.01.06-00.59.12:964][181]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.003720s)
+[2019.01.06-00.59.13:030][181]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.06-00.59.13:041][181]LogInit: FAudioDevice initialized.
+[2019.01.06-00.59.13:074][181]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.01.06-00.59.13:075][181]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2019.01.05-19.59.13
+[2019.01.06-00.59.13:075][181]LogWorld: Bringing up level for play took: 0.000962
+[2019.01.06-00.59.13:088][181]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap 0.437
+[2019.01.06-00.59.13:088][181]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.01.06-00.59.48:837][466]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.01.06-00.59.48:837][466]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.06-00.59.48:876][466]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.06-00.59.48:877][466]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.01.06-00.59.48:914][466]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.06-00.59.48:937][468]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.01.06-00.59.50:041][599]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.06-00.59.51:521][770]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.06-00.59.52:575][770]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.01.06-00.59.52:638][771]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.beltbrothers
+[2019.01.06-00.59.52:638][771]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.21\Engine\Binaries\DotNET\IOS
+[2019.01.06-00.59.52:638][771]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.21
+[2019.01.06-00.59.52:638][771]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.21\Engine\Binaries\DotNET\IOS
+[2019.01.06-00.59.52:638][771]LogTemp: BranchPath = DESKTOP-8LLUI4T/C/Program Files/Epic Games/UE_4.21/Engine/Binaries --- GameBranchPath = DESKTOP-8LLUI4T/C/Program Files/Epic Games/UE_4.21/Engine/Binaries
+[2019.01.06-00.59.52:659][772]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Chris Yarbrough\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2019.01.06-01.00.01:419][784]LogSlate: Window 'Project Settings' being destroyed
+[2019.01.06-01.00.01:422][784]LogSlate: Window 'Project Settings' being destroyed
+[2019.01.06-01.00.02:981][969]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-01.00.03:108][976]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.06-01.00.03:313][976]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/2DSideScrollerExampleMapD683C5804EB07B510C0ADCADE3ADA48A.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2019.01.06-01.00.03:413][976]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/2DSideScrollerExampleMap_BuiltDaD0F4D36B461EA20BC202A98CE62F389F.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset'
+[2019.01.06-01.00.03:985][ 43]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.06-01.00.03:999][ 43]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.01.06-01.00.03:999][ 43]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.06-01.00.03:999][ 43]PIE: New page: PIE session: 2DSideScrollerExampleMap (Jan 5, 2019, 3:00:03 PM)
+[2019.01.06-01.00.03:999][ 43]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2019.01.06-01.00.04:002][ 43]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002922s)
+[2019.01.06-01.00.04:003][ 43]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2019.01.06-01.00.04:003][ 43]LogPlayLevel: PIE: World Init took: (0.000510s)
+[2019.01.06-01.00.04:003][ 43]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.003546s)
+[2019.01.06-01.00.04:066][ 43]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.06-01.00.04:076][ 43]LogInit: FAudioDevice initialized.
+[2019.01.06-01.00.04:105][ 43]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.01.06-01.00.04:106][ 43]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2019.01.05-20.00.04
+[2019.01.06-01.00.04:106][ 43]LogWorld: Bringing up level for play took: 0.000892
+[2019.01.06-01.00.04:119][ 43]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap -0.531
+[2019.01.06-01.00.04:119][ 43]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.01.06-01.00.50:018][547]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.01.06-01.00.50:018][547]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.06-01.00.50:051][547]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.06-01.00.50:051][547]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.01.06-01.00.50:089][547]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.06-01.00.50:119][549]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.01.06-01.00.53:102][852]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.06-01.00.57:139][241]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-01.01.06:612][174]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2019.01.06-01.01.07:238][210]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.06-01.01.07:289][210]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/2DSideScrollerCharacterAC79945C4CC21212B182D59D58BBB75D.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/2DSideScrollerCharacter.uasset'
+[2019.01.06-01.01.08:560][359]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-01.01.10:129][547]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-01.01.10:188][554]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.06-01.01.10:206][554]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.01.06-01.01.10:206][554]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.06-01.01.10:206][554]PIE: New page: PIE session: 2DSideScrollerExampleMap (Jan 5, 2019, 3:01:10 PM)
+[2019.01.06-01.01.10:206][554]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2019.01.06-01.01.10:210][554]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003771s)
+[2019.01.06-01.01.10:210][554]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2019.01.06-01.01.10:211][554]LogPlayLevel: PIE: World Init took: (0.000655s)
+[2019.01.06-01.01.10:211][554]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.004569s)
+[2019.01.06-01.01.10:269][554]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.06-01.01.10:279][554]LogInit: FAudioDevice initialized.
+[2019.01.06-01.01.10:314][554]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.01.06-01.01.10:315][554]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2019.01.05-20.01.10
+[2019.01.06-01.01.10:315][554]LogWorld: Bringing up level for play took: 0.000894
+[2019.01.06-01.01.10:328][554]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap -0.322
+[2019.01.06-01.01.10:328][554]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.01.06-01.01.28:224][701]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.01.06-01.01.28:224][701]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.06-01.01.28:262][701]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.06-01.01.28:263][701]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.01.06-01.01.28:296][701]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.06-01.01.28:326][703]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.01.06-01.01.32:318][100]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.06-01.01.35:116][366]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-01.01.47:540][577]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2019.01.06-01.01.48:168][607]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.06-01.01.48:221][607]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/2DSideScrollerCharacter8321EF924425DCAB0438F7B78380A549.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/2DSideScrollerCharacter.uasset'
+[2019.01.06-01.01.49:236][726]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-01.01.50:397][865]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.06-01.01.50:439][870]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.06-01.01.50:457][870]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.01.06-01.01.50:457][870]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.06-01.01.50:458][870]PIE: New page: PIE session: 2DSideScrollerExampleMap (Jan 5, 2019, 3:01:50 PM)
+[2019.01.06-01.01.50:458][870]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2019.01.06-01.01.50:461][870]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002995s)
+[2019.01.06-01.01.50:461][870]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2019.01.06-01.01.50:461][870]LogPlayLevel: PIE: World Init took: (0.000499s)
+[2019.01.06-01.01.50:461][870]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.003608s)
+[2019.01.06-01.01.50:521][870]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.06-01.01.50:531][870]LogInit: FAudioDevice initialized.
+[2019.01.06-01.01.50:560][870]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.01.06-01.01.50:561][870]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2019.01.05-20.01.50
+[2019.01.06-01.01.50:561][870]LogWorld: Bringing up level for play took: 0.000900
+[2019.01.06-01.01.50:574][870]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap -0.076
+[2019.01.06-01.01.50:574][870]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.01.06-01.01.57:589][711]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.01.06-01.01.57:589][711]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.06-01.01.57:622][711]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.06-01.01.57:622][711]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.01.06-01.01.57:656][711]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.06-01.01.57:690][714]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.01.06-01.01.59:038][871]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.06-01.01.59:150][871]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.06-01.01.59:373][871]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/2DSideScrollerExampleMap9ED52AAD4FAE579F17F5F7BC590BFB82.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2019.01.06-01.01.59:401][871]LogFileHelpers: Saving map '2DSideScrollerExampleMap' took 0.239
+[2019.01.06-01.01.59:426][871]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Attack__0029F5E363149A3B67563C12B94ABEE0ECA.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/attack/Attack__002.uasset'
+[2019.01.06-01.01.59:574][871]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Attack__0035615EF9A458BC2F221CAD08FAFBF4CA1.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/attack/Attack__003.uasset'
+[2019.01.06-01.01.59:733][871]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Attack__0048E8B4260405FE3BA91F21ABAD63CE92F.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/attack/Attack__004.uasset'
+[2019.01.06-01.01.59:891][871]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Attack__005D4B4C0F4446727E1C5C9769531B78333.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/attack/Attack__005.uasset'
+[2019.01.06-01.02.00:049][871]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Attack__0067EC4A22B4FD95F591FC70A82D67417F4.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/attack/Attack__006.uasset'
+[2019.01.06-01.02.00:204][871]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Attack__0072B9DCFE54AD0D37809F4659C398D8537.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/attack/Attack__007.uasset'
+[2019.01.06-01.02.00:361][871]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Attack__008ED5ADCFE4ACEDBBA0CC19EA11EB8D2B5.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/attack/Attack__008.uasset'
+[2019.01.06-01.02.00:517][871]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Attack__00901C76CA14585ADC914B3C5A546627177.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/attack/Attack__009.uasset'
+[2019.01.06-01.02.00:672][871]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Attack__0007329FFA44057C7A189A35D81BE79FBEB.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/attack/Attack__000.uasset'
+[2019.01.06-01.02.00:828][871]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Attack__00131C13DEC4819758882F0EE95C7F8063A.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/attack/Attack__001.uasset'
+[2019.01.06-01.02.00:971][871]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Attack__000_SpriteF06BA7EF44925FC98C60A08D119F4E1C.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/attack/Attack__000_Sprite.uasset'
+[2019.01.06-01.02.01:116][871]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Attack__001_Sprite213EBEED47C02EA0AC5DB6B4C89ABCAF.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/attack/Attack__001_Sprite.uasset'
+[2019.01.06-01.02.01:237][871]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Attack__002_SpriteD42EC51D443C7D606B1F3B95E9B407C5.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/attack/Attack__002_Sprite.uasset'
+[2019.01.06-01.02.01:372][871]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Attack__003_Sprite36248D5046E5FB016F6E6D9959B114A7.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/attack/Attack__003_Sprite.uasset'
+[2019.01.06-01.02.01:506][871]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Attack__004_Sprite9DFC164F4D715C7554289EAA90DDE567.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/attack/Attack__004_Sprite.uasset'
+[2019.01.06-01.02.01:639][871]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Attack__005_Sprite2DBBA90C43EFB80385D011AEB8CF57AF.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/attack/Attack__005_Sprite.uasset'
+[2019.01.06-01.02.01:785][871]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Attack__006_Sprite4BF314094A835B03A6E65A97809321DE.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/attack/Attack__006_Sprite.uasset'
+[2019.01.06-01.02.01:917][871]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Attack__007_SpriteE95EA86045125907D1CC13A20F5A1DE7.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/attack/Attack__007_Sprite.uasset'
+[2019.01.06-01.02.02:060][871]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Attack__008_Sprite90C31E30449746614C428A8A1A087ABF.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/attack/Attack__008_Sprite.uasset'
+[2019.01.06-01.02.02:191][871]LogSavePackage: Moving '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Saved/Attack__009_SpriteF1DC98F443ABC0A88AC1F49C82EE070F.tmp' to '../../../../../../Users/Chris Yarbrough/Documents/Unreal Projects/beltbrothers/Content/Character/animations/sprites/attack/Attack__009_Sprite.uasset'
